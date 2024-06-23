@@ -21,7 +21,7 @@
                 <input id="password" type="password" name="" required="" placeholder="Password">
             </div>
             <div class="selector">
-                <a class="account" href="../register/register.html">Bạn chưa có tài khoản?</a>
+                <a class="account" href="signup.html">Bạn chưa có tài khoản?</a>
                 <button type="submit" class="btn" id="submit">Submit</button>
             </div>
         </form>
@@ -58,7 +58,7 @@
                 const arr = Object.values(accounts.val());
                 arr.map((element)=>{
                     if(element.email == email.value && element.password == password.value){
-                        alert("login success")
+                        alert("Login success")
                     }
                 })
 

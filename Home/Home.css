@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #193AD9;
+    padding: 10px 20px;
+    color: #fff;
+}
+
+.navbar .logo img {
+    width: 125px;
+}
+
+.navbar .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.navbar .nav-links li {
+    display: inline;
+    
+}
+
+.navbar .nav-links a {
+    color: #fff;
+    text-decoration: none;
+
+}
+
+.navbar .nav-links a:hover {
+    color: #e2742bdc;
+}
+
+.match-results {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.match-results h2 {
+    color: #003399;
+}
+
+#results {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.match {
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    max-width: 600px;
+}
+
+.match .teams {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+
+.match .score {
+    font-size: 24px;
+    color: #003399;
+    margin: 10px 0;
+    text-align: center;
+}
+
+.match .date {
+    font-size: 14px;
+    color: #888;
+}
