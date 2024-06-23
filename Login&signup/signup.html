@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="account-box" id="login">
+        <h2>Signup</h2>
+        <form>
+            <div class="user-box">
+                <input id="username" type="text" name="" required="" placeholder="Username">
+            </div>
+            <div class="user-box">
+                <input id="email" type="text" name="" required="" placeholder="Email">
+            </div>
+            <div class="user-box">
+                <input id="password" type="password" name="" required="" placeholder="Password">
+            </div>
+            <div class="selector">
+                <a class="account" href="login.html">Bạn chưa có tài khoản?</a>
+                <button type="submit" class="btn" id="submit">Submit</button>
+            </div>
+        </form>
+    </div>
+    
+    <script type="module">
+let login = document.querySelector("#login")
+login.addEventListener("submit", (e) => {
+    e.preventDefault()
+    let username = document.getElementById('username')
+    let email = document.getElementById('email')
+    let pw = document.getElementById('password')
+
+
+    let lowerCaseLetter = /[a-z]/g
+    let upperCaseLetter = /[A-Z]/g
+    let numbers = /[0-9]/g
+
+
+
+
+    if (email.value.trim().length == 0 && pw.value.trim().length == 0) {
+        alert("Please input your email & password")
+    }
+    else if (email.value.trim().length == 0) {
+        alert("Please input your email")
+    }
+    else if (pw.value.trim().length == 0) {
+        alert("Please input your password")
+    }
+    else if (pw.value.trim().length < 8) {
+        alert("Password must be at least 8 characters.")
+    }
+    else if (!pw.value.trim().match(lowerCaseLetter)) {
+        alert("Password must  contain a lowercase letter")
+    }
+    else if (!pw.value.trim().match(upperCaseLetter)) {
+        alert("Password must  contain a uppercase letter")
+    }
+    else if (!pw.value.trim().match(numbers)) {
+        alert("Password must  contain a number or special character")
+    }
+
+})
+        // Import the functions you need from the SDKs you need
+        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
+        import { getDatabase, ref, set, get, child } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-database.js";
+        // TODO: Add SDKs for Firebase products that you want to use
+        // https://firebase.google.com/docs/web/setup#available-libraries
+
+        // Your web app's Firebase configuration
+        const firebaseConfig = {
+            apiKey: "AIzaSyDDCA-oPC0mjD6ZElYWKZUfk0127oKM6J0",
+            authDomain: "login-ac6b2.firebaseapp.com",
+            projectId: "login-ac6b2",
+            storageBucket: "login-ac6b2.appspot.com",
+            messagingSenderId: "180397904213",
+            appId: "1:180397904213:web:943be6652acf9a5a6c1fdc"
+        };
+
+        // Initialize Firebase
+        const app = initializeApp(firebaseConfig);
+
+        const db = getDatabase(app)
+
+        document.getElementById("submit").addEventListener('click', function (e) {
+            e.preventDefault()
+            set(ref(db, 'user/' + document.getElementById("username").value),
+                {
+                    username: document.getElementById("username").value,
+
+                    email: document.getElementById("email").value,
+
+                    password: document.getElementById("password").value,
+
+                });
+
+            alert("Signup Sucessfull");
+            location
+
+        })
+
+    </script>
+
+</body>
+
+</html>
