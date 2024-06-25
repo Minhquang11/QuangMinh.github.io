@@ -3,52 +3,65 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="Home.css">
+    <title>YouTube Music API Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .song {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 5px;
+        }
+    </style>
 </head>
 <body>
-    <nav class="navbar">
-        <div class="logo">
-            <img src="https://cdn.sabavn.com/2024/03/logo-euro-2024-15.jpg" alt="Euro Logo">
-        </div>
-        <ul class="nav-links">
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Contact</a></li>
-        </ul>
-    </nav>
-    <div class="match-results">
-        <h2>Euro Match Results</h2>
-        <div id="results"></div>
-    </div>
+    <h1>Top Songs on YouTube Music</h1>
+    <div id="songs"></div>
 
-    <div class="container">
-        <div id="results" class="results">
-            <div class="match">
-                <div class="teams"><span>Đức</span>  <span>Scotland</span></div>
-                <div class="score"><strong>5</strong> - 1</div>
-                <div class="date">Date: 2024-06-15</div>
-            </div>
-            <div class="match">
-                <div class="teams"><span>Hungary</span>  <span>Thụy sĩ</span></div>
-                <div class="score">1 - <strong>3</strong></div>
-                <div class="date">Date: 2024-06-15</div>
-            </div>
-            <div class="match">
-                <div class="teams"><span>Tây Ban Nha</span>  <span>Croatia</span></div>
-                <div class="score"><strong>3</strong> - 0</div>
-                <div class="date">Date: 2024-06-15</div>
-            </div>
-        <div class="more">
-            <a href="../Match/Match.html">Xem thêm</a>
-        </div>
-        </div>
-    </div>
+    <script>
+        async function fetchSongs() {
+            const url = 'https://youtube-music-api3.p.rapidapi.com/home?gl=ID';
+            const options = {
+                method: 'GET',
+                headers: {
+                    'x-rapidapi-key': '4b4c403403msh773666ff3fef4cfp18cab5jsnfbb2aa3b82af',
+                    'x-rapidapi-host': 'youtube-music-api3.p.rapidapi.com'
+                }
+            };
 
-    <div class="newspaper">
-        <h3>Tin mới nhất</h3>
-    </div>
+            try {
+                const response = await fetch(url, options);
+                const result = await response.json(); // Chuyển đổi kết quả thành JSON
+                console.log(result);
+                displaySongs(result);
+            } catch (error) {
+                console.error('Error fetching songs:', error);
+            }
+        }
 
+        function displaySongs(data) {
+            const songsDiv = document.getElementById('songs');
+            songsDiv.innerHTML = ''; // Xóa nội dung cũ
+            var array = Array.from(data)
+
+            array.forEach(song => {
+                const songDiv = document.createElement('div');
+                songDiv.className = 'song';
+                songDiv.innerHTML = `
+                    <h2>${song.title}</h2>
+                    <p><strong>Artist:</strong> ${song.artist}</p>
+                    <p><strong>Album:</strong> ${song.album}</p>
+                    <p><strong>Views:</strong> ${song.views}</p>
+                    <p><strong>Duration:</strong> ${song.duration}</p>
+                `;
+                songsDiv.appendChild(songDiv);
+            });
+        }
+
+        // Gọi hàm fetchSongs khi trang load
+        fetchSongs();
+    </script>
 </body>
 </html>
