@@ -3,65 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>YouTube Music API Example</title>
+    <title>Hotel Auto-Complete</title>
     <style>
         body {
             font-family: Arial, sans-serif;
+            margin: 20px;
         }
-        .song {
-            border: 1px solid #ccc;
+        h1 {
+            color: #333;
+        }
+        #results {
+            margin-top: 20px;
             padding: 10px;
-            margin: 10px;
-            border-radius: 5px;
+            border: 1px solid #ccc;
         }
     </style>
 </head>
 <body>
-    <h1>Top Songs on YouTube Music</h1>
-    <div id="songs"></div>
+    <h1>Hotel Auto-Complete Search</h1>
+    <form id="searchForm">
+        <label for="query">Enter City Name:</label>
+        <input type="text" id="query" name="query" value="New York" required>
+        <button type="submit">Search</button>
+    </form>
+    <div id="results"></div>
 
-    <script>
-        async function fetchSongs() {
-            const url = 'https://youtube-music-api3.p.rapidapi.com/home?gl=ID';
-            const options = {
-                method: 'GET',
-                headers: {
-                    'x-rapidapi-key': '4b4c403403msh773666ff3fef4cfp18cab5jsnfbb2aa3b82af',
-                    'x-rapidapi-host': 'youtube-music-api3.p.rapidapi.com'
-                }
-            };
-
-            try {
-                const response = await fetch(url, options);
-                const result = await response.json(); // Chuyển đổi kết quả thành JSON
-                console.log(result);
-                displaySongs(result);
-            } catch (error) {
-                console.error('Error fetching songs:', error);
-            }
-        }
-
-        function displaySongs(data) {
-            const songsDiv = document.getElementById('songs');
-            songsDiv.innerHTML = ''; // Xóa nội dung cũ
-            var array = Array.from(data)
-
-            array.forEach(song => {
-                const songDiv = document.createElement('div');
-                songDiv.className = 'song';
-                songDiv.innerHTML = `
-                    <h2>${song.title}</h2>
-                    <p><strong>Artist:</strong> ${song.artist}</p>
-                    <p><strong>Album:</strong> ${song.album}</p>
-                    <p><strong>Views:</strong> ${song.views}</p>
-                    <p><strong>Duration:</strong> ${song.duration}</p>
-                `;
-                songsDiv.appendChild(songDiv);
-            });
-        }
-
-        // Gọi hàm fetchSongs khi trang load
-        fetchSongs();
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>
