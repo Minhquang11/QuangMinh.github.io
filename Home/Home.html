@@ -3,31 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hotel Auto-Complete</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        #results {
-            margin-top: 20px;
-            padding: 10px;
-            border: 1px solid #ccc;
-        }
-    </style>
+    <title>Beautiful NavBar</title>
+    <link rel="stylesheet" href="Home.css">
 </head>
 <body>
-    <h1>Hotel Auto-Complete Search</h1>
-    <form id="searchForm">
-        <label for="query">Enter City Name:</label>
-        <input type="text" id="query" name="query" value="New York" required>
-        <button type="submit">Search</button>
-    </form>
-    <div id="results"></div>
-
-    <script src="script.js"></script>
+    <nav>
+        <div class="logo"><img src="https://lh3.googleusercontent.com/pw/AP1GczNDuBru-MA_WTx1a2aeZUSayk3hQEgOjVLBR0LafF6h17VELeCMvu-W3Ajsbi8NZ9PUEmlyblU1v4siIgYUfiuYxvQQ-5J-HNrP2wFq10dPGlu7pofj-Or5pTER3tHcsoLFBky8pq0-nxT3Sl4DyNtzmo6nP73omBct1u--9xDzuIb2VyPKk0p7uHEVNiilDSftOrk6l1D7KtV5Vwn7Wpu40H_vFSV3NXpeiCRscja0SF5QIz9tlM_43NMgQdqN2jY20L1q_dle-cuH1dPLy1FulvN4m2-i_YRkTl7BbO1l5sC1enirLNNM9__9qwXTkCW_mjPXT265c9MQAl4FGKWG-PtZbTjUE49wNbF0if2rabT0l-kFvypLLAE99hnr1T7NwM7Bwtds-bVUaKoAnkj0JGyNDwUdJ7CdlqCWP1UkEMn7UYfKCYZKG_HO0cZgvraLrQOlWVYvO9H5BzQs2T7SQdeSwhzxs04Ivv8WplC14-J-GuK1rw4bnYzwpE3KUfIQPN0VuzmndACN6tXQckob_yCKPKBZKSDMcGmGsUBlPXUjesAP9IFcvf6rQ4wF_ivXkbvIrYGoEzsneZkEFkj1jPtdbx7QVXQyCWwFf2Fio_ht1zFWRPGwznxMgFBxdUHgW5spwLr60WYs0epj3vs8XrXofLgRUPfQWwwdIH5FIlnWecW-G4zDG-TvzqwEI9DvYORZhTOuff6VPmeEhO-JigcX41btfgniuXQmeaOGHzKDW8Jgz0GqgMAnthopU-NjU_X9IlXx4bT8K-e7kmxMCqUwHxU3B9hGUmHdK_ayukg3ab7TtDjC7Cuw-zO9g89V2fPuD00UX893B4D3_VNiqPHkhhvdSGn1kUuGHGneMsECcXjvZXghANMoZSXjT-2Uc6o_lUDJIxefwzyetavgSfX36R0RrbKL5yDgFwK4GQSmWeDyMIAUvt4pe52a49jzZ2mWfn47hZ1tm0deQK9d2yMrWVI=w474-h472-s-no-gm?authuser=0" alt=""></div>
+        <label for="menu-toggle" class="menu-icon">&#9776;</label>
+        <ul class="menu">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#matches">Matches</a></li>
+            <li><a href="#teams">Teams</a></li>
+            <li><a href="#players">Players</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <script src="Home.js"></script>
 </body>
 </html>

@@ -1,83 +1,59 @@
-body {
-    font-family: Arial, sans-serif;
+* {
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    box-sizing: border-box;
 }
 
-.navbar {
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+}
+
+nav {
+    background: linear-gradient(90deg, #ff8a00, #e52e71);
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #193AD9;
-    padding: 10px 20px;
-    color: #fff;
+    padding: 0 20px;
+    height: 60px;
 }
 
-.navbar .logo img {
-    width: 125px;
+.logo {
+    font-size: 24px;
+    color: white;
+    font-weight: bold;
+    }
+.logo img{
+    width: 60px;
 }
 
-.navbar .nav-links {
+.logo span {
+    color: #00d4ff;
+}
+
+.menu-icon {
+    display: none;
+    font-size: 28px;
+    color: white;
+    cursor: pointer;
+}
+
+.menu {
     list-style: none;
     display: flex;
-    gap: 20px;
 }
 
-.navbar .nav-links li {
-    display: inline;
-    
+.menu li {
+    margin-left: 20px;
 }
 
-.navbar .nav-links a {
-    color: #fff;
+.menu a {
+    color: white;
     text-decoration: none;
-
+    font-size: 18px;
+    transition: color 0.3s;
 }
 
-.navbar .nav-links a:hover {
-    color: #e2742bdc;
-}
-
-.match-results {
-    text-align: center;
-    margin-top: 20px;
-}
-
-.match-results h2 {
-    color: #003399;
-}
-
-#results {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 10px;
-}
-
-.match {
-    background: #fff;
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 80%;
-    max-width: 600px;
-}
-
-.match .teams {
-    display: flex;
-    justify-content: space-between;
-    font-weight: bold;
-}
-
-.match .score {
-    font-size: 24px;
-    color: #003399;
-    margin: 10px 0;
-    text-align: center;
-}
-
-.match .date {
-    font-size: 14px;
-    color: #888;
+.menu a:hover {
+    color: #00d4ff;
 }
