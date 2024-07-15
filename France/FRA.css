@@ -1,0 +1,106 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+  
+    }
+    
+    .news-container {
+      width: 80%;
+      margin: 20px auto;
+      background: #fff;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 20px;
+    }
+    
+    .news-container h1 {
+      text-align: center;
+      color: #333;
+    }
+    
+    .news-item {
+      border-bottom: 1px solid #ddd;
+      padding: 10px 0;
+    }
+    
+    .news-item:last-child {
+      border-bottom: none;
+    }
+    
+    .news-item h2 {
+      margin: 0;
+      font-size: 1.5em;
+      color: #007BFF;
+    }
+    
+    .news-item p {
+      margin: 5px 0 0;
+      font-size: 1em;
+      color: #555;
+    }
+    .seemore p {
+      text-align: center;
+    }
+    .nationname{
+      
+      height: 250px;
+      background-color: #cb333b;
+      color: #ddd;
+      display: flex;
+      flex-direction: row;
+  
+  }
+  .flagname{
+      margin-top: 100px;
+      margin-left: 10px;
+      font-size: 3em;
+  
+  }
+  .nationflag{
+      width: 200px;
+      height: 200px;
+      margin-left: 50px;
+      margin-top: 25px;
+  }
+  
+  
+  .KEYSTATS{
+    width: 80%;
+    margin: 20px auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    
+  }
+  .KEYSTATS h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .STATS{
+    margin-top: 10px;
+    display: flex;
+  }
+  .stats{
+    padding-left:  200px;
+    justify-content: space-around;
+  }
+  h4{
+    padding-bottom: 15px;
+  }
+  
+  .ovr-stats{
+    margin-top: 15px;
+  }
+  h3{
+    padding-top: 15px;
+  }
