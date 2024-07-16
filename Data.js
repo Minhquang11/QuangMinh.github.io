@@ -588,7 +588,7 @@ let eurofinal = {
             age: "21",
             match: "6",
             position: "Goalkepper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250160574.png"
         },
 
         {
@@ -596,7 +596,7 @@ let eurofinal = {
             age: "26",
             match: "-",
             position: "Goalkepper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250069830.png"
         },
 
         {
@@ -604,7 +604,7 @@ let eurofinal = {
             age: "31",
             match: "-",
             position: "Goalkepper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250167143.png"
         },
 
         {
@@ -612,7 +612,7 @@ let eurofinal = {
             age: "23",
             match: "2",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250104075.png"
         },
 
         {
@@ -620,7 +620,7 @@ let eurofinal = {
             age: "24",
             match: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/50327424.png"
         },
 
         {
@@ -628,7 +628,7 @@ let eurofinal = {
             age: "33",
             match: "6",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/50327420.png"
         },
 
         {
@@ -636,7 +636,7 @@ let eurofinal = {
             age: "29",
             match: "6",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250027008.png"
         },
 
 
@@ -645,14 +645,14 @@ let eurofinal = {
             age: "32",
             match: "6",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/50327428.png"
         },
         {
             name: "Micky van de Ven",
             age: "23",
             match: "4",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/50327427.png"
         },
 
         {
@@ -660,14 +660,14 @@ let eurofinal = {
             age: "34",
             match: "1",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/108908.png"
         },
         {
             name: "Denzel Dumfries",
             age: "28",
             match: "5",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250112690.png"
         },
 
         {
@@ -675,105 +675,105 @@ let eurofinal = {
             age: "33",
             match: "3",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250187661.png"
         },
         {
             name: "Tijjani Reijnders",
             age: "25",
             match: "6",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250121294.png"
         },
         {
             name: "Joey Veerman",
             age: "25",
             match: "6",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250105890.png"
         },
         {
             name: "Ian Maatsen",
             age: "22",
             match: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250117581.png"
         },
         {
             name: "Jerdy Schouten",
             age: "27",
             match: "6",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250172787.png"
         },
         {
             name: "Ryan Gravenberch",
             age: "22",
             match: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250113001.png"
         },
         {
             name: "Xavi Simons",
             age: "21",
             match: "6",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250128451.png"
         },
         {
             name: "Wout Weghorst",
             age: "31",
             match: "6",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250078682.png"
         },
         {
             name: "Memphis Depay",
             age: "30",
             match: "6",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250024860.png"
         },
         {
             name: "Cody Gakpo",
             age: "25",
             match: "6",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250096849.png"
         },
         {
             name: "Jeremie Frimpong",
             age: "23",
             match: "3",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250113276.png"
         },
         {
             name: "Donyell Malen",
             age: "25",
             match: "4",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250081555.png"
         },
         {
             name: "Brian Brobbey",
             age: "22",
             match: "1",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250112997.png"
         },
         {
             name: "Joshua Zirkzee",
             age: "23",
             match: "2",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250106762.png"
         },
         {
             name: "Steven Bergwijn",
             age: "26",
             match: "2",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250066551.png"
         },
 
 
