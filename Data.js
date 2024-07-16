@@ -785,7 +785,7 @@ let eurofinal = {
             age: "38",
             match: "5",
             position: "Goalkepper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/97923.png"
         },
 
         {
@@ -793,7 +793,7 @@ let eurofinal = {
             age: "34",
             match: "-",
             position: "Goalkepper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250005333.png"
         },
 
         {
@@ -801,7 +801,7 @@ let eurofinal = {
             age: "32",
             match: "-",
             position: "Goalkepper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250007631.png"
         },
 
         {
@@ -809,7 +809,7 @@ let eurofinal = {
             age: "31",
             match: "5",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250028211.png"
         },
 
         {
@@ -817,7 +817,7 @@ let eurofinal = {
             age: "26",
             match: "3",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250110361.png"
         },
 
         {
@@ -825,7 +825,7 @@ let eurofinal = {
             age: "28",
             match: "5",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250055660.png"
         },
 
         {
@@ -833,7 +833,7 @@ let eurofinal = {
             age: "29",
             match: "5",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250070417.png"
         },
 
 
@@ -842,14 +842,14 @@ let eurofinal = {
             age: "24",
             match: "2",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250134856.png"
         },
         {
             name: "Waldemar Anton",
             age: "27",
             match: "2",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250101238.png"
         },
 
         {
@@ -857,14 +857,14 @@ let eurofinal = {
             age: "27",
             match: "4",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250090766.png"
         },
         {
             name: "Benjamin Henrichs",
             age: "27",
             match: "1",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250058258.png"
         },
 
         {
@@ -872,105 +872,105 @@ let eurofinal = {
             age: "27",
             match: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250126501.png"
         },
         {
             name: "Pascal Gross",
             age: "33",
             match: "1",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250029535.png"
         },
         {
             name: "Toni Kroos",
             age: "34",
             match: "5",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/103147.png"
         },
         {
             name: "Jamal Musiala",
             age: "21",
             match: "5",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250124430.png"
         },
         {
             name: "Chris Führich",
             age: "26",
             match: "1",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250192048.png"
         },
         {
             name: "Florian Wirtz",
             age: "21",
             match: "5",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250139445.png"
         },
         {
             name: "Leroy Sané",
             age: "28",
             match: "5",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250063984.png"
         },
         {
             name: "İlkay Gündoğan",
             age: "33",
             match: "5",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250005335.png"
         },
         {
             name: "Robert Andrich",
             age: "29",
             match: "5",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250055957.png"
         },
         {
             name: "Emre Can",
             age: "30",
             match: "4",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250017824.png"
         },
         {
             name: "Kai Havertz",
             age: "25",
             match: "5",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250087938.png"
         },
         {
             name: "Niclas Füllkrug",
             age: "31",
             match: "5",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250041844.png"
         },
         {
             name: "Thomas Müller",
             age: "34",
             match: "2",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250003318.png"
         },
         {
             name: "Maximilian Beier",
             age: "21",
             match: "1",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250124222.png"
         },
         {
             name: "Deniz Undav",
             age: "27",
             match: "1",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250124222.png"
         },
 
 
@@ -982,7 +982,7 @@ let eurofinal = {
             age: "36",
             match: "-",
             position: "Goalkepper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/93443.png"
         },
 
         {
@@ -990,7 +990,7 @@ let eurofinal = {
             age: "31",
             match: "-",
             position: "Goalkepper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250064239.png"
         },
 
         {
@@ -998,7 +998,7 @@ let eurofinal = {
             age: "24",
             match: "5",
             position: "Goalkepper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250076675.png"
         },
 
         {
@@ -1006,7 +1006,7 @@ let eurofinal = {
             age: "30",
             match: "5",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250086090.png"
         },
 
         {
@@ -1014,7 +1014,7 @@ let eurofinal = {
             age: "41",
             match: "4",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/95417.png"
         },
 
         {
@@ -1022,21 +1022,21 @@ let eurofinal = {
             age: "27",
             match: "4",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250058220.png"
         },
         {
             name: "Diogo Dalot",
             age: "25",
             match: "2",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250081628.png"
         },
         {
             name: "Gonçalo Inácio",
             age: "22",
             match: "2",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250136464.png"
         },
 
         {
@@ -1044,14 +1044,14 @@ let eurofinal = {
             age: "22",
             match: "4",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250136465.png"
         },
         {
             name: "João Cancelo",
             age: "30",
             match: "4",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250024746.png"
         },
 
         {
@@ -1059,112 +1059,112 @@ let eurofinal = {
             age: "20",
             match: "2",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250128468.png"
         },
         {
             name: "João Palhinha",
             age: "29",
             match: "4",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250067295.png"
         },
         {
             name: "Bruno Fernandes",
             age: "29",
             match: "4",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250067295.png"
         },
         {
             name: "Bernardo Silva",
             age: "29",
             match: "4",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250059115.png"
         },
         {
             name: "Danilo",
             age: "32",
             match: "1",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250014528.png"
         },
         {
             name: "João Neves",
             age: "19",
             match: "2",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250164991.png"
         },
         {
             name: "Matheus Nunes",
             age: "25",
             match: "2",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250145803.png"
         },
         {
             name: "Rúben Neves",
             age: "27",
             match: "4",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250055271.png"
         },
         {
             name: "Vitinha",
             age: "24",
             match: "4",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250101444.png"
         },
         {
             name: "Pedro Neto",
             age: "24",
             match: "3",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250106986.png"
         },
         {
             name: "Cristiano Ronaldo",
             age: "39",
             match: "5",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/63706.png"
         },
         {
             name: "Gonçalo Ramos",
             age: "23",
             match: "1",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250116654.png"
         },
         {
             name: "João Félix",
             age: "24",
             match: "2",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250101463.png"
         },
         {
             name: "Rafael Leão",
             age: "25",
             match: "4",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250089228.png"
         },
         {
             name: "Diogo Jota",
             age: "27",
             match: "3",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250080471.png"
         },
         {
             name: "Francisco Conceição",
             age: "21",
             match: "4",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250117405.png"
         },
 
 
@@ -1176,7 +1176,7 @@ let eurofinal = {
             age: "35",
             match: "5",
             position: "Goalkepper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/97746.png"
         },
 
         {
@@ -1184,7 +1184,7 @@ let eurofinal = {
             age: "30",
             match: "-",
             position: "Goalkepper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250026983.png"
         },
 
         {
@@ -1192,7 +1192,7 @@ let eurofinal = {
             age: "26",
             match: "-",
             position: "Goalkepper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250069832.png"
         },
 
         {
@@ -1200,7 +1200,7 @@ let eurofinal = {
             age: "22",
             match: "3",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250119144.png"
         },
 
         {
@@ -1208,7 +1208,7 @@ let eurofinal = {
             age: "27",
             match: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250055734.png"
         },
 
         {
@@ -1216,21 +1216,21 @@ let eurofinal = {
             age: "28",
             match: "5",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250085369.pngY"
         },
         {
             name: "Ricardo Rodríguez",
             age: "31",
             match: "5",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250011089.png"
         },
         {
             name: "Cédric Zesiger",
             age: "26",
             match: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250105729.png"
         },
 
         {
@@ -1238,14 +1238,14 @@ let eurofinal = {
             age: "32",
             match: "5",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250050401.png"
         },
         {
             name: "Denis Zakaria",
             age: "27",
             match: "1",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250079677.png"
         },
 
         {
@@ -1253,112 +1253,112 @@ let eurofinal = {
             age: "32",
             match: "5",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250023097.png"
         },
         {
             name: "Granit Xhaka",
             age: "31",
             match: "5",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250004721.png"
         },
         {
             name: "Steven Zuber",
             age: "32",
             match: "2",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/1905363.png"
         },
         {
             name: "Vincent Sierro",
             age: "29",
             match: "4",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250089058.png"
         },
         {
             name: "Ruben Vargas",
             age: "25",
             match: "5",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250110397.png"
         },
         {
             name: "Michel Aebischer",
             age: "27",
             match: "5",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250099399.png"
         },
         {
             name: "Xherdan Shaqiri",
             age: "32",
             match: "2",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/1905360.png"
         },
         {
             name: "Ardon Jashari",
             age: "21",
             match: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250171283.png"
         },
         {
             name: "Fabian Rieder",
             age: "22",
             match: "5",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250117806.pngY"
         },
         {
             name: "Renato Steffen",
             age: "32",
             match: "1",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250060817.png"
         },
         {
             name: "Silvan Widmer",
             age: "31",
             match: "4",
             position: "Defenders",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250042877.png"
         },
         {
             name: "Breel Embolo",
             age: "27",
             match: "5",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250064274.png"
         },
         {
             name: "Noah Okafor",
             age: "24",
             match: "-",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250101696.png"
         },
         {
             name: "Kwadwo Duah",
             age: "27",
             match: "3",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250092582.png"
         },
         {
             name: "Dan Ndoye",
             age: "23",
             match: "5",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250125538.png"
         },
         {
             name: "Zeki Amdouni",
             age: "23",
             match: "4",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250162865.png"
         },
 
 
@@ -1369,7 +1369,7 @@ let eurofinal = {
             age: "35",
             match: "-",
             position: "Goalkepper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250001606.png"
         },
 
         {
@@ -1377,7 +1377,7 @@ let eurofinal = {
             age: "27",
             match: "-",
             position: "Goalkepper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250056161.png"
         },
 
         {
@@ -1385,7 +1385,7 @@ let eurofinal = {
             age: "29",
             match: "3",
             position: "Goalkepper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250046901.png"
         },
 
         {
@@ -1393,7 +1393,7 @@ let eurofinal = {
             age: "32",
             match: "1",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250039499.png"
         },
 
         {
@@ -1401,7 +1401,7 @@ let eurofinal = {
             age: "20",
             match: "3",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250127042.png"
         },
 
         {
@@ -1409,7 +1409,7 @@ let eurofinal = {
             age: "30",
             match: "2",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250023520.png"
         },
 
         {
@@ -1417,7 +1417,7 @@ let eurofinal = {
             age: "30",
             match: "3",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250016842.png"
         },
 
 
@@ -1426,14 +1426,14 @@ let eurofinal = {
             age: "31",
             match: "3",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250028715.png"
         },
         {
             name: "Enea Mihaj",
             age: "26",
             match: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250104978.png"
         },
 
         {
@@ -1441,14 +1441,14 @@ let eurofinal = {
             age: "27",
             match: "",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250099056.png"
         },
         {
             name: "Marash Kumbulla",
             age: "24",
             match: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250091932.png"
         },
 
         {
@@ -1456,105 +1456,105 @@ let eurofinal = {
             age: "30",
             match: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250061470.png"
         },
         {
             name: "Klaus Gjasula",
             age: "34",
             match: "1",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250134709.png"
         },
         {
             name: "Nedim Bajrami",
             age: "25",
             match: "3",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250089373.png"
         },
         {
             name: "Qazim Laçi",
             age: "28",
             match: "3",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250056159.png"
         },
         {
             name: "Taulant Seferi",
             age: "27",
             match: "2",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250055411.png"
         },
         {
             name: "Ylber Ramadani",
             age: "28",
             match: "3",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250098530.png"
         },
         {
             name: "Kristjan Asllani",
             age: "22",
             match: "3",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250143669.png"
         },
         {
             name: "Amir Abrashi",
             age: "34",
             match: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250005185.png"
         },
         {
             name: "Rey Manaj",
             age: "27",
             match: "3",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250080439.png"
         },
         {
             name: "Jasir Asani",
             age: "29",
             match: "3",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250064637.png"
         },
         {
             name: "Armando Broja",
             age: "22",
             match: "2",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250113109.png"
         },
         {
             name: "Medon Berisha",
             age: "20",
             match: "1",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250165111.png"
         },
         {
             name: "Ernest Muçi",
             age: "23",
             match: "2",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250126467.png"
         },
         {
             name: "Mirlind Daku",
             age: "26",
             match: "1",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250112672.png"
         },
         {
             name: "Arbër Hoxha",
             age: "24",
             match: "3",
             position: "Forwards",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250110159.png"
         },
     ],
     AUS: [
@@ -1565,7 +1565,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Goalkeeper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250001968.png"
         },
         {
             name: "Niklas Hedl",
@@ -1573,7 +1573,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Goalkeeper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250116096.png"
         },
         {
             name: "Patrick Pentz",
@@ -1581,7 +1581,7 @@ let eurofinal = {
             match: "4",
             goals: "6",
             position: "Goalkeeper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250064558.png"
         },
         {
             name: "Maximilian Wöber",
@@ -1589,7 +1589,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250081701.png"
         },
         {
             name: "Gernot Trauner",
@@ -1597,7 +1597,7 @@ let eurofinal = {
             match: "2",
             goals: "1",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250019573.png"
         },
         {
             name: "Kevin Danso",
@@ -1605,7 +1605,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250081703.png"
         },
         {
             name: "Stefan Posch",
@@ -1613,7 +1613,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250065419.png"
         },
         {
             name: "Leopold Querfeld",
@@ -1621,7 +1621,7 @@ let eurofinal = {
             match: "1",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250166380.png"
         },
         {
             name: "Philipp Lienhart",
@@ -1629,7 +1629,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250073627.png"
         },
         {
             name: "Phillipp Mwene",
@@ -1637,7 +1637,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250024344.png"
         },
         {
             name: "Flavius Daniliuc",
@@ -1645,7 +1645,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250107024.png"
         },
         {
             name: "Patrick Wimmer",
@@ -1653,7 +1653,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250138426.png"
         },
         {
             name: "Nicolas Seiwald",
@@ -1661,7 +1661,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250114167.png"
         },
         {
             name: "Alexander Prass",
@@ -1669,7 +1669,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250114170.png"
         },
         {
             name: "Marcel Sabitzer",
@@ -1677,7 +1677,7 @@ let eurofinal = {
             match: "4",
             goals: "1",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250024349.png"
         },
         {
             name: "Florian Grillitsch",
@@ -1685,7 +1685,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250041706.png"
         },
         {
             name: "Florian Kainz",
@@ -1693,7 +1693,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250020929.png"
         },
         {
             name: "Romano Schmid",
@@ -1701,63 +1701,63 @@ let eurofinal = {
             match: "4",
             goals: "1",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250097378.png"
         }, {
             name: "Christoph Baumgartner",
             age: "24",
             match: "4",
             goals: "1",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250089289.png"
         }, {
             name: "Konrad Laimer",
             age: "27",
             match: "4",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250065413.pngY"
         }, {
             name: "Matthias Seidl",
             age: "23",
             match: "-",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250138424.png"
         }, {
             name: "Marco Grüll",
             age: "26",
             match: "-",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250137446.png"
         }, {
             name: "Marko Arnautović",
             age: "35",
             match: "4",
             goals: "1",
-            position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            position: "Forwards",
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/1903428.png"
         }, {
             name: "Andreas Weimann",
             age: "32",
             match: "1",
             goals: "-",
-            position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            position: "Forwards",
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/106914.png"
         }, {
             name: "Michael Gregoritsch",
             age: "30",
             match: "4",
             goals: "1",
-            position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            position: "Forwards",
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250023832.png"
         }, {
             name: "Maximilian Entrup",
             age: "26",
             match: "-",
             goals: "-",
-            position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            position: "Forwards",
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250099612.png"
         },
     ],
     BEL: [
@@ -1767,7 +1767,7 @@ let eurofinal = {
             match: "4",
             goals: "2",
             position: "Goalkeeper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250003911.png"
         },
         {
             name: "Thomas Kaminski",
@@ -1775,7 +1775,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Goalkeeper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250003912.png"
         },
         {
             name: "Matz Sels",
@@ -1783,7 +1783,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Goalkeeper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250007046.png"
         },
         {
             name: "Zeno Debast",
@@ -1791,7 +1791,7 @@ let eurofinal = {
             match: "2",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250137390.png"
         },
         {
             name: "Arthur Theate",
@@ -1799,7 +1799,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250127396.png"
         },
         {
             name: "Wout Faes",
@@ -1807,7 +1807,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250066522.png"
         },
         {
             name: "Jan Vertonghen",
@@ -1815,7 +1815,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/103704.png"
         },
         {
             name: "Thomas Meunier",
@@ -1823,7 +1823,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250029318.png"
         },
         {
             name: "Timothy Castagne",
@@ -1831,7 +1831,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/103335.png"
         },
         {
             name: "Axel Witsel",
@@ -1839,7 +1839,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/103335.png"
         },
         {
             name: "Kevin De Bruyne",
@@ -1847,7 +1847,7 @@ let eurofinal = {
             match: "4",
             goals: "1",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250008901.png"
         },
         {
             name: "Youri Tielemans",
@@ -1855,7 +1855,7 @@ let eurofinal = {
             match: "3",
             goals: "1",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250064006.png"
         },
         {
             name: "Leandro Trossard",
@@ -1863,7 +1863,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250023009.png"
         },
         {
             name: "Aster Vranckx",
@@ -1871,7 +1871,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250138311.png"
         },
         {
             name: "Orel Mangala",
@@ -1879,7 +1879,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250076025.png"
         },
         {
             name: "Arthur Vermeeren",
@@ -1887,7 +1887,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250166930.png"
         },
         {
             name: "Amadou Onana",
@@ -1895,7 +1895,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250117708.png"
         },
         {
             name: "Maxim De Cuyper",
@@ -1903,7 +1903,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250123695.png"
         },
         {
             name: "Romelu Lukaku",
@@ -1911,7 +1911,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250010802.png"
         },
         {
             name: "Yannick Carrasco",
@@ -1919,7 +1919,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250040959.png"
         },
         {
             name: "Dodi Lukébakio",
@@ -1927,7 +1927,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250067658.png"
         },
         {
             name: "Charles De Ketelaere",
@@ -1935,7 +1935,7 @@ let eurofinal = {
             match: "1",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250117705.png"
         },
         {
             name: "Johan Bakayoko",
@@ -1943,7 +1943,7 @@ let eurofinal = {
             match: "2",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250130406.png"
         },
         {
             name: "Loïs Openda",
@@ -1951,7 +1951,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250096954.png"
         },
         {
             name: "Jérémy Doku",
@@ -1959,7 +1959,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250113142.png"
         }
     ],
     DEN: [
@@ -1969,7 +1969,7 @@ let eurofinal = {
             match: "4",
             goals: "4",
             position: "Goalkeeper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/74954.png"
         },
         {
             name: "Mads Hermansen",
@@ -1977,7 +1977,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Goalkeeper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250103902.png"
         },
         {
             name: "Frederik Rønnow",
@@ -1985,7 +1985,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Goalkeeper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250023709.png"
         },
         {
             name: "Joachim Andersen",
@@ -1993,7 +1993,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250070182.png"
         },
         {
             name: "Jannik Vestergaard",
@@ -2001,7 +2001,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250023708.png"
         },
         {
             name: "Simon Kjær",
@@ -2009,7 +2009,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/108509.png"
         },
         {
             name: "Joakim Mæhle",
@@ -2017,7 +2017,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250081192.png"
         },
         {
             name: "Andreas Christensen",
@@ -2025,7 +2025,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250041718.png"
         },
         {
             name: "Mathias Jørgensen",
@@ -2033,7 +2033,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/107529.png"
         },
         {
             name: "Victor Kristiansen",
@@ -2041,7 +2041,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250129344.png"
         },
         {
             name: "Alexander Bah",
@@ -2049,7 +2049,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250145629.png"
         },
         {
             name: "Rasmus Kristensen",
@@ -2057,7 +2057,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250074850.png"
         },
         {
             name: "Mathias Jensen",
@@ -2065,7 +2065,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250080451.png"
         },
         {
             name: "Thomas Delaney",
@@ -2073,7 +2073,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250010472.png"
         },
         {
             name: "Christian Eriksen",
@@ -2081,7 +2081,7 @@ let eurofinal = {
             match: "4",
             goals: "1",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/1905884.png"
         },
         {
             name: "Christian Nørgaard",
@@ -2089,7 +2089,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250022797.png"
         },
         {
             name: "Morten Hjulmand",
@@ -2097,7 +2097,7 @@ let eurofinal = {
             match: "3",
             goals: "1",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250101557.png"
         },
         {
             name: "Pierre-Emile Højbjerg",
@@ -2105,7 +2105,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250026986.png"
         },
         {
             name: "Anders Dreyer",
@@ -2113,7 +2113,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250077990.png"
         },
         {
             name: "Jacob Bruun Larsen",
@@ -2121,7 +2121,7 @@ let eurofinal = {
             match: "1",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250077958.png"
         },
         {
             name: "Rasmus Højlund",
@@ -2129,7 +2129,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250130221.png"
         },
         {
             name: "Andreas Skov Olsen",
@@ -2137,7 +2137,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250097638.png"
         },
         {
             name: "Kasper Dolberg",
@@ -2145,7 +2145,7 @@ let eurofinal = {
             match: "2",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250177904.png"
         },
         {
             name: "Mikkel Damsgaard",
@@ -2153,7 +2153,7 @@ let eurofinal = {
             match: "1",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250118062.png"
         },
         {
             name: "Jonas Wind",
@@ -2161,7 +2161,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250089514.png"
         },
         {
             name: "Yussuf Poulsen",
@@ -2169,7 +2169,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250022869.png"
         }
     ],
     GEO: [
@@ -2179,7 +2179,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Goalkeeper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/103937.png"
         },
         {
             name: "Luka Gugeshashvili",
@@ -2187,7 +2187,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Goalkeeper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250090370.png"
         },
         {
             name: "Giorgi Mamardashvili",
@@ -2195,7 +2195,7 @@ let eurofinal = {
             match: "4",
             goals: "8",
             position: "Goalkeeper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250101805.png"
         },
         {
             name: "Otar Kakabadze",
@@ -2203,7 +2203,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250041121.png"
         },
         {
             name: "Lasha Dvali",
@@ -2211,7 +2211,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250047090.png"
         },
         {
             name: "Guram Kashia",
@@ -2219,7 +2219,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/104733.png"
         },
         {
             name: "Solomon Kverkvelia",
@@ -2227,7 +2227,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250013316.png"
         },
         {
             name: "Giorgi Gocholeishvili",
@@ -2235,7 +2235,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250114145.png"
         },
         {
             name: "Luka Lochoshvili",
@@ -2243,7 +2243,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250079645.png"
         },
         {
             name: "Giorgi Gvelesiani",
@@ -2251,7 +2251,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250019308.png"
         },
         {
             name: "Jemal Tabidze",
@@ -2259,7 +2259,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250056824.png"
         },
         {
             name: "Giorgi Kochorashvili",
@@ -2267,7 +2267,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250088810.png"
         },
         {
             name: "Zuriko Davitashvili",
@@ -2275,7 +2275,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250097055.png"
         },
         {
             name: "Giorgi Chakvetadze",
@@ -2283,7 +2283,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250090382.png"
         },
         {
             name: "Nika Kvekveskiri",
@@ -2291,7 +2291,7 @@ let eurofinal = {
             match: "1",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250004252.png"
         },
         {
             name: "Otar Kiteishvili",
@@ -2299,7 +2299,7 @@ let eurofinal = {
             match: "2",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250078593.png"
         },
         {
             name: "Sandro Altunashvili",
@@ -2307,7 +2307,7 @@ let eurofinal = {
             match: "2",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250088818.png"
         },
         {
             name: "Levan Shengelia",
@@ -2315,7 +2315,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250067372.png"
         },
         {
             name: "Anzor Mekvabishvili",
@@ -2323,7 +2323,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250101810.png"
         },
         {
             name: "Giorgi Tsitaishvili",
@@ -2331,7 +2331,7 @@ let eurofinal = {
             match: "4",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250163619.png"
         },
         {
             name: "Saba Lobjanidze",
@@ -2339,7 +2339,7 @@ let eurofinal = {
             match: "1",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250056716.png"
         },
         {
             name: "Gabriel Sigua",
@@ -2347,7 +2347,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250168500.png"
         },
         {
             name: "Khvicha Kvaratskhelia",
@@ -2355,7 +2355,7 @@ let eurofinal = {
             match: "4",
             goals: "1",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250168500.png"
         },
         {
             name: "Budu Zivzivadze",
@@ -2363,7 +2363,7 @@ let eurofinal = {
             match: "2",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250027190.png"
         },
         {
             name: "Giorgi Kvilitaia",
@@ -2371,7 +2371,7 @@ let eurofinal = {
             match: "1",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250066330.png"
         },
         {
             name: "Georges Mikautadze",
@@ -2379,17 +2379,17 @@ let eurofinal = {
             match: "4",
             goals: "3",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250155025.png"
         }
     ],
-    CRO:[
+    CRO: [
         {
             name: "Dominik Livaković",
             age: "29",
             match: "3",
             goals: "6",
             position: "Goalkeeper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250042625.png"
         },
         {
             name: "Nediljko Labrović",
@@ -2397,7 +2397,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Goalkeeper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250135201.png"
         },
         {
             name: "Ivica Ivušić",
@@ -2405,7 +2405,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Goalkeeper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250023553.png"
         },
         {
             name: "Josip Stanišić",
@@ -2413,7 +2413,7 @@ let eurofinal = {
             match: "2",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250112220.png"
         },
         {
             name: "Marin Pongračić",
@@ -2421,7 +2421,7 @@ let eurofinal = {
             match: "2",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250110407.png"
         },
         {
             name: "Joško Gvardiol",
@@ -2429,7 +2429,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250127284.png"
         },
         {
             name: "Martin Erlić",
@@ -2437,7 +2437,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250081634.png"
         },
         {
             name: "Josip Šutalo",
@@ -2445,7 +2445,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250100914.png"
         },
         {
             name: "Borna Sosa",
@@ -2453,7 +2453,7 @@ let eurofinal = {
             match: "1",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250066139.png"
         },
         {
             name: "Domagoj Vida",
@@ -2461,7 +2461,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/108567.png"
         },
         {
             name: "Josip Juranović",
@@ -2469,7 +2469,7 @@ let eurofinal = {
             match: "2",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250078379.png"
         },
         {
             name: "Lovro Majer",
@@ -2477,7 +2477,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250098470.png"
         },
         {
             name: "Mateo Kovačić",
@@ -2485,7 +2485,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250023551.png"
         },
         {
             name: "Luka Modrić",
@@ -2493,7 +2493,7 @@ let eurofinal = {
             match: "3",
             goals: "1",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/74699.png"
         },
         {
             name: "Marcelo Brozović",
@@ -2501,7 +2501,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250040564.png"
         },
         {
             name: "Nikola Vlašić",
@@ -2509,7 +2509,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250066135.png"
         },
         {
             name: "Mario Pašalić",
@@ -2517,7 +2517,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250042631.png"
         },
         {
             name: "Luka Sučić",
@@ -2525,7 +2525,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250127293.png"
         },
         {
             name: "Martin Baturina",
@@ -2533,7 +2533,7 @@ let eurofinal = {
             match: "1",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250140940.png"
         },
         {
             name: "Andrej Kramarić",
@@ -2541,7 +2541,7 @@ let eurofinal = {
             match: "3",
             goals: "1",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/1906416.png"
         },
         {
             name: "Ivan Perišić",
@@ -2549,7 +2549,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/103310.png"
         },
         {
             name: "Ante Budimir",
@@ -2557,7 +2557,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250053837.png"
         },
         {
             name: "Bruno Petković",
@@ -2565,7 +2565,7 @@ let eurofinal = {
             match: "2",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250063394.png"
         },
         {
             name: "Luka Ivanušec",
@@ -2573,7 +2573,7 @@ let eurofinal = {
             match: "1",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250098468.png"
         },
         {
             name: "Marko Pjaca",
@@ -2581,7 +2581,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250042632.png"
         },
         {
             name: "Marco Pašalić",
@@ -2589,10 +2589,10 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250163187.png"
         }
     ],
-    CZE:[
+    CZE: [
         {
             name: "Jindřich Staněk",
             age: "28",
@@ -2802,7 +2802,7 @@ let eurofinal = {
             image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
         }
     ],
-    HUN:[
+    HUN: [
         {
             name: "Péter Gulácsi",
             age: "34",
@@ -3012,7 +3012,7 @@ let eurofinal = {
             image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
         }
     ],
-    POL:[
+    POL: [
         {
             name: "Wojciech Szczęsny",
             age: "34",
@@ -3221,9 +3221,9 @@ let eurofinal = {
             position: "Forward",
             image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
         }
-        
+
     ],
-    SCO:[
+    SCO: [
         {
             name: "Angus Gunn",
             age: "28",
@@ -3433,7 +3433,7 @@ let eurofinal = {
             image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcT2D-xpOq1HhT2vJpPxFfAd9y9ThE6A6sI4PbE92BmTE4ncLP6G7j9Ng4m7sGm6I13Us4FTbK6a3IWqU4w"
         }
     ],
-    SER:[
+    SER: [
         {
             name: "Predrag Rajković",
             age: "28",
@@ -3643,7 +3643,7 @@ let eurofinal = {
             image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcT2D-xpOq1HhT2vJpPxFfAd9y9ThE6A6sI4PbE92BmTE4ncLP6G7j9Ng4m7sGm6I13Us4FTbK6a3IWqU4w"
         }
     ],
-    UKR:[
+    UKR: [
         {
             name: "Georgiy Bushchan",
             age: "30",
@@ -3853,4 +3853,796 @@ let eurofinal = {
             image: "https://example.com/image-url"
         }
     ],
-}
+    SVK: [
+        {
+            name: " Martin Dúbravka  ",
+            age: "35",
+            match: "4", goals: "5",
+            position: "Goalkeeper",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Marek Rodák",
+            age: "27",
+            match: "-",
+            goals: " - ",
+            position: "Goalkeeper",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Henrich Ravas", age: "26",
+            match: "-",
+            goals: "-",
+            position: "Goalkeeper",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Peter Pekarík", age: "37 ",
+            match: "4",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Denis Vavro", age: "28",
+            match: "4",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Adam Obert", age: "21",
+            match: "2",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Norbert Gyömbér", age: "32",
+            match: "2",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Milan Škriniar", age: "29",
+            match: "4",
+            goals: "-",
+            position: "Defender",
+            image: "https:example.com/image-url"
+        },
+        {
+            name: " Vernon De Marco ", age: "31",
+            match: "-",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Dávid Hancko ", age: "26",
+            match: "4",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Sebastián Kóša ", age: "20",
+            match: "-",
+            goals: "-",
+            position: " Defender ",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Tomáš Rigo ", age: "22",
+            match: "-",
+            goals: "-",
+            position: " Midfielder ",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Ondrej Duda", age: "29",
+            match: "4",
+            goals: "1",
+            position: " Midfielder ",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " László Bénes ", age: "26",
+            match: "2",
+            goals: "-",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Patrik Hrošovský ", age: "32",
+            match: "-",
+            goals: "-",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Juraj Kucka ", age: "37",
+            match: "4",
+            goals: "-",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Matúš Bero", age: "28",
+            match: "2",
+            goals: "-",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Stanislav Lobotka", age: "29",
+            match: "4",
+            goals: "-",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Tomáš Suslov ", age: "22",
+            match: "4",
+            goals: "-",
+            position: " Forward ",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Róbert Boženík", age: "24",
+            match: "4",
+            goals: " - ",
+            position: "Forward ",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Ľubomír Tupta", age: "26",
+            match: "1",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Lukáš Haraslín ", age: "28",
+            match: "4",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "David Strelec", age: "23",
+            match: "4",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Dávid Ďuriš", age: "25",
+            match: "2",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Leo Sauer", age: "18",
+            match: "1",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Ivan Schranz", age: "30",
+            match: "4",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+    ],
+    TUR: [
+        {
+            name: " Mert Günok", age: "35",
+            match: "4",
+            goals: "5",
+            position: "Goalkeeper",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Altay Bayındır", age: "27",
+            match: "1",
+            goals: "3",
+            position: "Goalkeeper",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Uğurcan Çakır", age: "28",
+            match: "-",
+            goals: "-",
+            position: "Goalkeeper",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Zeki Çelik", age: "27 ",
+            match: "3",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Merih Demiral", age: "26",
+            match: "4",
+            goals: "2",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Samet Akaydin", age: "30",
+            match: "4",
+            goals: "1",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Ahmetcan Kaplan", age: "21",
+            match: "-",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Abdülkerim Bardakcı", age: "29",
+            match: "4",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Mert Müldür", age: "25",
+            match: "4",
+            goals: "1",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Ferdi Kadıoğlu", age: "24",
+            match: "5",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Okay Yokuşlu ", age: "30",
+            match: "3",
+            goals: "-",
+            position: " Midfielder ",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Orkun Kökçü", age: "23",
+            match: "4",
+            goals: "-",
+            position: " Midfielder ",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Hakan Çalhanoğlu", age: "30",
+            match: "4",
+            goals: "1",
+            position: " Midfielder ",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Salih Özcan ", age: "26",
+            match: "4",
+            goals: "-",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " İsmail Yüksek", age: "25",
+            match: "3",
+            goals: " - "
+            , position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Kaan Ayhan ", age: "29",
+            match: "5",
+            goals: "-",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Kerem Aktürkoğlu", age: "25",
+            match: "5",
+            goals: "1",
+            position: " Forward ",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Arda Güler", age: "19",
+            match: "5",
+            goals: "1",
+            position: " Forward ",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Cenk Tosun", age: "33",
+            match: "2",
+            goals: "1",
+            position: "Forward ",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Yusuf Yazıcı", age: "27",
+            match: "2",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " İrfan Can Kahveci ", age: "29",
+            match: "1",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Kenan Yıldız ", age: "19",
+            match: "5",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Barış Alper Yılmaz", age: "24",
+            match: "5",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Semih Kılıçsoy ", age: "18",
+            match: "1",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Yunus Akgün ", age: "24",
+            match: "1",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: " Bertuğ Yıldırım", age: "22",
+            match: "-",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        }
+    ],
+    SVN: [
+        {
+            name: "Jan Oblak",
+            "age": "31",
+            "match": "4",
+            "goals": "2",
+            "position": "Goalkeeper",
+            "image": "https://example.com/image-url"
+        },
+        {
+            name: "Vid Belec",
+            age: "34",
+            match: "-",
+            goals: "-",
+            position: "Goalkeeper",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Igor Vekić",
+            age: "26",
+            match: "-",
+            goals: "-",
+            position: "Goalkeeper",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Žan Karničnik",
+            age: "29",
+            match: "4",
+            goals: "1",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Jure Balkovec",
+            age: "29",
+            match: "2",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Miha Blažič",
+            age: "31",
+            match: "-",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Jon Gorenc Stanković",
+            age: "28",
+            match: "4",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Jaka Bijol",
+            age: "25",
+            match: "4",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Erik Janža",
+            age: "31",
+            match: "3",
+            goals: "1",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Petar Stojanović",
+            age: "28",
+            match: "4",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Vanja Drkušić",
+            age: "24",
+            match: "4",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "David Brekalo",
+            age: "25",
+            match: "2",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Benjamin Verbič",
+            age: "30",
+            match: "3",
+            goals: "-",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Sandi Lovrić",
+            age: "26",
+            match: "-",
+            goals: "-",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Timi Elšnik",
+            age: "26",
+            match: "4",
+            goals: "-",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Jasmin Kurtić",
+            age: "35",
+            match: "1",
+            goals: "-",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Tomi Horvat",
+            age: "25",
+            match: "-",
+            goals: "-",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Adam Gnezda Čerin",
+            age: "25",
+            match: "4",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Nino Žugelj",
+            age: "24",
+            match: "-",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Adrian Zeljković",
+            age: "21",
+            match: "-",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Josip Iličić",
+            age: "36",
+            match: "2",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Andraž Šporar",
+            age: "30",
+            match: "4",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Benjamin Šeško",
+            age: "21",
+            match: "4",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Jan Mlakar",
+            age: "25",
+            match: "4",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Žan Vipotnik",
+            age: "22",
+            match: "1",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Žan Celar",
+            age: "25",
+            match: "3",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        }
+    ],
+    ROU: [
+        {
+            name: "Florin Niță",
+            age: "37",
+            match: "4",
+            goals: "6",
+            position: "Goalkeeper",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Horațiu Moldovan",
+            age: "26",
+            match: "-",
+            goals: "-",
+            position: "Goalkeeper",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Ştefan Târnovanu",
+            age: "24",
+            match: "-",
+            goals: "-",
+            position: "Goalkeeper",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Andrei Rațiu",
+            age: "26",
+            match: "4",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Radu Drăgușin",
+            age: "22",
+            match: "4",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Adrian Rus",
+            age: "28",
+            match: "2",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Ionuţ Nedelcearu",
+            age: "28",
+            match: "-",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Nicușor Bancu",
+            age: "31",
+            match: "3",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Andrei Burcă",
+            age: "31",
+            match: "4",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Vasile Mogoș",
+            age: "31",
+            match: "1",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Bogdan Racoviţan",
+            age: "24",
+            match: "2",
+            goals: "-",
+            position: "Defender",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Marius Marin",
+            age: "25",
+            match: "4",
+            goals: "-",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Alexandru Cicâldău",
+            age: "27",
+            match: "1",
+            goals: "-",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Ianis Hagi",
+            age: "25",
+            match: "4",
+            goals: "-",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Darius Olaru",
+            age: "26",
+            match: "2",
+            goals: "-",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Răzvan Marin",
+            age: "28",
+            match: "4",
+            goals: "2",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Nicolae Stanciu",
+            age: "31",
+            match: "4",
+            goals: "1",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Deian Sorescu",
+            age: "26",
+            match: "2",
+            goals: "-",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Adrian Șut",
+            age: "25",
+            match: "-",
+            goals: "-",
+            position: "Midfielder",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Denis Alibec",
+            age: "33",
+            match: "2",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "George Puşcaş",
+            age: "28",
+            match: "2",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Valentin Mihăilă",
+            age: "23",
+            match: "2",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Florinel Coman",
+            age: "25",
+            match: "2",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Denis Drăguş",
+            age: "25",
+            match: "24",
+            goals: "1",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Dennis Man",
+            age: "25",
+            match: "4",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        },
+        {
+            name: "Daniel Bîrligea",
+            age: "24",
+            match: "-",
+            goals: "-",
+            position: "Forward",
+            image: "https://example.com/image-url"
+        }
+    ]
+
+
+
+} 
