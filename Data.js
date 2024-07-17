@@ -2937,7 +2937,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250115077.png"
         },
         {
             name: "László Kleinheisler",
@@ -2945,7 +2945,7 @@ let eurofinal = {
             match: "2",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250023225.png"
         },
         {
             name: "Dániel Gazdag",
@@ -2953,7 +2953,7 @@ let eurofinal = {
             match: "1",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250056177.png"
         },
         {
             name: "Callum Styles",
@@ -2961,7 +2961,7 @@ let eurofinal = {
             match: "1",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250171195.png"
         },
         {
             name: "Mihály Kata",
@@ -2969,7 +2969,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250118991.png"
         },
         {
             name: "Martin Ádám",
@@ -2977,7 +2977,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250109903.png"
         },
         {
             name: "Barnabás Varga",
@@ -2985,7 +2985,7 @@ let eurofinal = {
             match: "3",
             goals: "1",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250183450.png"
         },
         {
             name: "Roland Sallai",
@@ -2993,7 +2993,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250065179.png"
         },
         {
             name: "Kevin Csoboth",
@@ -3001,7 +3001,7 @@ let eurofinal = {
             match: "2",
             goals: "1",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250104041.png"
         },
         {
             name: "Krisztofer Horváth",
@@ -3009,7 +3009,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250171185.png"
         }
     ],
     POL: [
@@ -3019,7 +3019,7 @@ let eurofinal = {
             match: "2",
             goals: "5",
             position: "Goalkeeper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/108501.png"
         },
         {
             name: "Łukasz Skorupski",
@@ -3027,7 +3027,7 @@ let eurofinal = {
             match: "1",
             goals: "1",
             position: "Goalkeeper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250040573.png"
         },
         {
             name: "Marcin Bułka",
@@ -3035,7 +3035,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Goalkeeper",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250113102.pngY"
         },
         {
             name: "Bartosz Salamon",
@@ -3043,7 +3043,7 @@ let eurofinal = {
             match: "1",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250013152.png"
         },
         {
             name: "Sebastian Walukiewicz",
@@ -3051,7 +3051,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250102242.png"
         },
         {
             name: "Jan Bednarek",
@@ -3059,7 +3059,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250056266.png"
         },
         {
             name: "Jakub Kiwior",
@@ -3067,7 +3067,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250105681.png"
         },
         {
             name: "Tymoteusz Puchacz",
@@ -3075,7 +3075,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250090285.png"
         },
         {
             name: "Bartosz Bereszyński",
@@ -3083,7 +3083,7 @@ let eurofinal = {
             match: "1",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250020213.png"
         },
         {
             name: "Przemysław Frankowski",
@@ -3091,7 +3091,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Defender",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250066342.png"
         },
         {
             name: "Paweł Dawidowicz",
@@ -3099,7 +3099,7 @@ let eurofinal = {
             match: "2",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250070827.png"
         },
         {
             name: "Jakub Piotrowski",
@@ -3107,7 +3107,7 @@ let eurofinal = {
             match: "2",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250097293.png"
         },
         {
             name: "Jakub Moder",
@@ -3115,7 +3115,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250092129.png"
         },
         {
             name: "Piotr Zieliński",
@@ -3123,7 +3123,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250024370.png"
         },
         {
             name: "Kamil Grosicki",
@@ -3131,7 +3131,7 @@ let eurofinal = {
             match: "1",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/108235.png"
         },
         {
             name: "Taras Romanczuk",
@@ -3139,7 +3139,7 @@ let eurofinal = {
             match: "1",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250083602.png"
         },
         {
             name: "Damian Szymański",
@@ -3147,7 +3147,7 @@ let eurofinal = {
             match: "-",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250110207.png"
         },
         {
             name: "Sebastian Szymański",
@@ -3155,7 +3155,7 @@ let eurofinal = {
             match: "2",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250087872.png"
         },
         {
             name: "Nicola Zalewski",
@@ -3163,7 +3163,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250124155.png"
         },
         {
             name: "Bartosz Slisz",
@@ -3171,7 +3171,7 @@ let eurofinal = {
             match: "2",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250133799.png"
         },
         {
             name: "Kacper Urbański",
@@ -3179,7 +3179,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Midfielder",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250166754.png"
         },
         {
             name: "Karol Świderski",
@@ -3187,7 +3187,7 @@ let eurofinal = {
             match: "3",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250083605.png"
         },
         {
             name: "Robert Lewandowski",
@@ -3195,7 +3195,7 @@ let eurofinal = {
             match: "2",
             goals: "1",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250002096.png"
         },
         {
             name: "Adam Buksa",
@@ -3203,7 +3203,7 @@ let eurofinal = {
             match: "2",
             goals: "1",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250058189.png"
         },
         {
             name: "Krzysztof Piątek",
@@ -3211,7 +3211,7 @@ let eurofinal = {
             match: "1",
             goals: "1",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250098778.png"
         },
         {
             name: "Michał Skóraś",
@@ -3219,7 +3219,7 @@ let eurofinal = {
             match: "1",
             goals: "-",
             position: "Forward",
-            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcS6kGPumyx0y2FieMSFh8upoquttFMp3B29hQDxXVwV98jryF0aJMS9pmYb5rKUq2fGlaQlWNnuHbZQlnY"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250105686.png"
         }
 
     ],
