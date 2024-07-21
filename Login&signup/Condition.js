@@ -75,6 +75,7 @@
                 })
                 .then(() => {
                     alert("Signup Successful!");
+                   
                 })
                 .catch((error) => {
                     console.error("Error writing to database: ", error);
