@@ -429,64 +429,58 @@ var KEYSTATS = {
     //     red_card: "0"
     // }],
 }
-for (const item of KEYSTATS) {
-    
+ESPovr.ESP.forEach(ovr => {
+    // Create the parent div for matches played
+let matchPlayedDiv = document.createElement('div');
+matchPlayedDiv.className = 'match-played';
 
-// Create main container
-const mainContainer = document.createElement('div');
-mainContainer.className = 'ovr';
+// Create the h2 and h3 elements for matches played
+let matchPlayedH2 = document.createElement('h2');
+matchPlayedH2.textContent = '7';
+let matchPlayedH3 = document.createElement('h3');
+matchPlayedH3.textContent = 'Matches played';
 
-// Create matches played section
-const matchesPlayedSection = document.createElement('div');
-matchesPlayedSection.className = 'match-played';
+// Append the h2 and h3 to the matchPlayedDiv
+matchPlayedDiv.appendChild(matchPlayedH2);
+matchPlayedDiv.appendChild(matchPlayedH3);
 
-// Create matches played header
-const matchesPlayedHeader = document.createElement('h2');
-matchesPlayedHeader.textContent = item.match_played;
-matchesPlayedSection.appendChild(matchesPlayedHeader);
+// Create the parent div for overall stats
+let ovrStatsDiv = document.createElement('div');
+ovrStatsDiv.className = 'ovr-stats';
 
-// Create matches played subheader
-const matchesPlayedSubheader = document.createElement('h3');
-matchesPlayedSubheader.textContent = 'Matches played';
-matchesPlayedSection.appendChild(matchesPlayedSubheader);
+// Array of stats (won, drawn, lost)
+let stats = [
+  { value: '7', label: 'Won' },
+  { value: '0', label: 'Drawn' },
+  { value: '0', label: 'Lost' }
+];
 
-// Append matches played section to main container
-mainContainer.appendChild(matchesPlayedSection);
+// Loop through the stats array and create the respective divs
+stats.forEach(stat => {
+  let statDiv = document.createElement('div');
+  statDiv.className = 'wons';
+  
+  let statH3 = document.createElement('h3');
+  statH3.textContent = stat.value;
+  
+  let statP = document.createElement('p');
+  statP.textContent = stat.label;
+  
+  statDiv.appendChild(statH3);
+  statDiv.appendChild(statP);
+  ovrStatsDiv.appendChild(statDiv);
+});
 
-// Create overall stats container
-const ovrStatsContainer = document.createElement('div');
-ovrStatsContainer.className = 'ovr-stats';
+// // Append the matchPlayedDiv and ovrStatsDiv to the body or a specific container
+// document.body.appendChild(matchPlayedDiv);
+// document.body.appendChild(ovrStatsDiv);
 
-// Create function to generate stats elements
-function createStatsElement(number, label) {
-    const statsElement = document.createElement('div');
-    statsElement.className = 'wons';
-    
-    const statsHeader = document.createElement('h3');
-    statsHeader.textContent = number;
-    statsElement.appendChild(statsHeader);
-    
-    const statsLabel = document.createElement('p');
-    statsLabel.textContent = label;
-    statsElement.appendChild(statsLabel);
-    
-    return statsElement;
-}
+// // Alternatively, you can append to a specific container
+// // let container = document.getElementById('yourContainerId');
+// // container.appendChild(matchPlayedDiv);
+// // container.appendChild(ovrStatsDiv);
 
-// Create and append won, drawn, and lost elements
-ovrStatsContainer.appendChild(createStatsElement(item.match_won, 'Won'));
-ovrStatsContainer.appendChild(createStatsElement(item.match_drawn, 'Drawn'));
-ovrStatsContainer.appendChild(createStatsElement(item.match_lost, 'Lost'));
 
-// Append overall stats container to main container
-mainContainer.appendChild(ovrStatsContainer);
-
-// Get the container by ID and append the main container to it
-const container = document.getElementById('statsContainer');
-if (container) {
-    container.appendChild(mainContainer);
-} else {
-    console.error('Element with ID "statsContainer" not found.');
-}
-document.getElementById("ovr").appendChild()
-}
+document.getElementById("ovr").appendChild(matchPlayedDiv)
+document.getElementById("ovr").appendChild(ovrStatsDiv)
+})
