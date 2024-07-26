@@ -3,7 +3,7 @@ const data = {
     {
       id: "0001",
       name: "Spain",
-      flag: "https://www.countryflags.io/ES/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/ESP.png",
       match_played: "7",
       match_won: "7",
       match_drawn: "0",
@@ -24,7 +24,7 @@ const data = {
   ENG: [{
       id: "0002",
       name: "England",
-      flag: "https://www.countryflags.io/GB/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/ENG.png",
       match_played: "7",
       match_won: "3",
       match_drawn: "3",
@@ -44,7 +44,7 @@ const data = {
   FRA: [{
       id: "0003",
       name: "France",
-      flag: "https://www.countryflags.io/FR/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/FRA.png",
       match_played: "6",
       match_won: "2",
       match_drawn: "3",
@@ -64,7 +64,7 @@ const data = {
   NED: [{
       id: "0004",
       name: "Netherlands",
-      flag: "https://www.countryflags.io/NL/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/NED.png",
       match_played: "6",
       match_won: "3",
       match_drawn: "1",
@@ -84,7 +84,7 @@ const data = {
   GER: [{
       id: "0005",
       name: "Germany",
-      flag: "https://www.countryflags.io/DE/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/GER.png",
       match_played: "5",
       match_won: "3",
       match_drawn: "1",
@@ -104,7 +104,7 @@ const data = {
   POR: [{
       id: "0006",
       name: "Portugal",
-      flag: "https://www.countryflags.io/PT/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/POR.png",
       match_played: "5",
       match_won: "2",
       match_drawn: "2",
@@ -124,7 +124,7 @@ const data = {
   SUI: [{
       id: "0007",
       name: "Switzerland",
-      flag: "https://www.countryflags.io/CH/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/SUI.png",
       match_played: "5",
       match_won: "2",
       match_drawn: "3",
@@ -144,7 +144,7 @@ const data = {
   TUR: [{
       id: "0008",
       name: "Turkey",
-      flag: "https://www.countryflags.io/TR/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/TUR.png",
       match_played: "5",
       match_won: "3",
       match_drawn: "0",
@@ -164,7 +164,7 @@ const data = {
   AUT: [{
       id: "0009",
       name: "Austria",
-      flag: "https://www.countryflags.io/AT/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/AUS.png",
       match_played: "4",
       match_won: "2",
       match_drawn: "0",
@@ -184,7 +184,7 @@ const data = {
   BEL: [{
       id: "0010",
       name: "Belgium",
-      flag: "https://www.countryflags.io/BE/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/BEL.png",
       match_played: "4",
       match_won: "1",
       match_drawn: "1",
@@ -204,7 +204,7 @@ const data = {
   DEN: [{
       id: "0011",
       name: "Denmark",
-      flag: "https://www.countryflags.io/DK/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/DEN.png",
       match_played: "4",
       match_won: "0",
       match_drawn: "3",
@@ -224,7 +224,7 @@ const data = {
   GEO: [{
       id: "0012",
       name: "Georgia",
-      flag: "https://www.countryflags.io/GE/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/GEO.png",
       match_played: "4",
       match_won: "1",
       match_drawn: "1",
@@ -244,7 +244,7 @@ const data = {
   ITA: [{
       id: "0013",
       name: "Italy",
-      flag: "https://www.countryflags.io/IT/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/ITA.png",
       match_played: "4",
       match_won: "1",
       match_drawn: "1",
@@ -264,7 +264,7 @@ const data = {
   ROU: [{
       id: "0014",
       name: "Romania",
-      flag: "https://www.countryflags.io/RO/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/ROM.png",
       match_played: "4",
       match_won: "2",
       match_drawn: "1",
@@ -284,7 +284,7 @@ const data = {
   SVK: [{
       id: "0015",
       name: "Slovakia",
-      flag: "https://www.countryflags.io/SK/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/SVK.png",
       match_played: "4",
       match_won: "2",
       match_drawn: "1",
@@ -304,7 +304,7 @@ const data = {
   SVN: [{
       id: "0016",
       name: "Slovenia",
-      flag: "https://www.countryflags.io/SI/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/SVN.png",
       match_played: "4",
       match_won: "2",
       match_drawn: "1",
@@ -324,7 +324,7 @@ const data = {
   ALB: [{
       id: "0017",
       name: "Albania",
-      flag: "https://www.countryflags.io/AL/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/ALB.png",
       match_played: "4",
       match_won: "1",
       match_drawn: "1",
@@ -344,7 +344,7 @@ const data = {
   CRO: [{
       id: "0018",
       name: "Croatia",
-      flag: "https://www.countryflags.io/HR/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/CRO.png",
       match_played: "4",
       match_won: "2",
       match_drawn: "1",
@@ -364,7 +364,7 @@ const data = {
   CZE: [{
       id: "0019",
       name: "Czech Republic",
-      flag: "https://www.countryflags.io/CZ/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/CZE.png",
       match_played: "4",
       match_won: "1",
       match_drawn: "2",
@@ -384,7 +384,7 @@ const data = {
   HUN: [{
       id: "0020",
       name: "Hungary",
-      flag: "https://www.countryflags.io/HU/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/HUN.png",
       match_played: "4",
       match_won: "2",
       match_drawn: "0",
@@ -404,7 +404,7 @@ const data = {
   POL: [{
       id: "0021",
       name: "Poland",
-      flag: "https://www.countryflags.io/PL/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/POL.png",
       match_played: "4",
       match_won: "1",
       match_drawn: "1",
@@ -424,7 +424,7 @@ const data = {
   SRB: [{
       id: "0022",
       name: "Serbia",
-      flag: "https://www.countryflags.io/RS/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/SRB.png",
       match_played: "4",
       match_won: "2",
       match_drawn: "1",
@@ -444,7 +444,7 @@ const data = {
   UKR: [{
       id: "0023",
       name: "Ukraine",
-      flag: "https://www.countryflags.io/UA/flat/64.png",
+      flag: "https://img.uefa.com/imgml/flags/240x240/UKR.png",
       match_played: "4",
       match_won: "2",
       match_drawn: "1",
