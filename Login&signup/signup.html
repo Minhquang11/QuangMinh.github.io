@@ -5,123 +5,30 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Signup</title>
+    <title>Login</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <div class="account-box">
-        <h2>Signup</h2>
-        <form id="signup">
+    <div class="account-box" id="login">
+        <h2>Login</h2>
+        <form id="login-signup">
+
             <div class="user-box">
-                <input id="username" type="text" name="username" required="" placeholder="Username">
+                <input id="emailSignup" type="text" name="" required="" placeholder="Email">
             </div>
             <div class="user-box">
-                <input id="email" type="text" name="email" required="" placeholder="Email">
-            </div>
-            <div class="user-box">
-                <input id="password" type="password" name="password" required="" placeholder="Password">
+                <input id="passwordSignup" type="password" name="" required="" placeholder="Password">
             </div>
             <div class="selector">
-                <a class="account" href="login.html">Bạn chưa có tài khoản?</a>
+                <a class="account" href="signup.html">Bạn chưa có tài khoản?</a>
                 <button type="submit" class="btn" id="submit">Submit</button>
             </div>
         </form>
     </div>
-
-    <script type="module">
-        // Import the functions you need from the SDKs you need
-        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
-        import { getDatabase, ref, set } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-database.js";
-
-        // Your web app's Firebase configuration
-        const firebaseConfig = {
-            apiKey: "AIzaSyAyTW4s8JgrWIDPBhdPXMBEMoRuZViYfAA",
-            authDomain: "spck-19e21.firebaseapp.com",
-            databaseURL: "https://spck-19e21-default-rtdb.firebaseio.com",
-            projectId: "spck-19e21",
-            storageBucket: "spck-19e21.appspot.com",
-            messagingSenderId: "701815580026",
-            appId: "1:701815580026:web:f0d80c09bc36ca24d322c3",
-            measurementId: "G-7LG4CCBKDZ"
-        };
-
-        // Initialize Firebase
-        const app = initializeApp(firebaseConfig);
-        const db = getDatabase(app);
-
-        document.getElementById("signup").addEventListener("submit", function (e) {
-            e.preventDefault();
-
-            // function check() {
-            //     let username = document.getElementById('username').value.trim();
-            //     let email = document.getElementById('email').value.trim();
-            //     let pw = document.getElementById('password').value.trim();
-
-            //     let lowerCaseLetter = /[a-z]/;
-            //     let upperCaseLetter = /[A-Z]/;
-            //     let numbers = /[0-9]/;
-
-            //     if (username.length == 0) {
-            //         alert("Please input your username");
-            //         document.getElementById('username').focus();
-            //         return false;
-            //     }
-            //     if (email.length == 0) {
-            //         alert("Please input your email");
-            //         document.getElementById('email').focus();
-            //         return false;
-            //     }
-            //     if (pw.length == 0) {
-            //         alert("Please input your password");
-            //         document.getElementById('password').focus();
-            //         return false;
-            //     }
-            //     if (pw.length < 8) {
-            //         alert("Password must be at least 8 characters.");
-            //         document.getElementById('password').focus();
-            //         return false;
-            //     }
-            //     if (!pw.match(lowerCaseLetter)) {
-            //         alert("Password must contain a lowercase letter");
-            //         document.getElementById('password').focus();
-            //         return false;
-            //     }
-            //     if (!pw.match(upperCaseLetter)) {
-            //         alert("Password must contain an uppercase letter");
-            //         document.getElementById('password').focus();
-            //         return false;
-            //     }
-            //     if (!pw.match(numbers)) {
-            //         alert("Password must contain a number");
-            //         document.getElementById('password').focus();
-            //         return false;
-            //     }
-            //     return true;
-            // }
-
-            // if (check()) {
-            set(ref(db, 'user/' + document.getElementById("username").value), {
-                username: document.getElementById("username").value,
-                email: document.getElementById("email").value,
-                password: document.getElementById("password").value,
-            })
-                .then(() => {
-                    alert("Signup Successful!");
-                    location.replace("login.html")
-                })
-                .catch((error) => {
-                    console.error("Error writing to database: ", error);
-                });
-        }
-
-            // }
-        );
-
-
-
-    </script>
-
+    <script type="module" src="./class/firebase.js"></script>
+    <script type="module" src="./signup.js"></script>
+   
 </body>
 
 </html>

@@ -12,7 +12,7 @@
 <body>
     <div class="account-box" id="login">
         <h2>Login</h2>
-        <form>
+        <form id="login-form">
 
             <div class="user-box">
                 <input id="email" type="text" name="" required="" placeholder="Email">
@@ -26,48 +26,8 @@
             </div>
         </form>
     </div>
-    <script type="module">
-
-        // Import the functions you need from the SDKs you need
-        import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
-        import { getDatabase, ref, set, get, child } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-database.js";
-        // TODO: Add SDKs for Firebase products that you want to use
-        // https://firebase.google.com/docs/web/setup#available-libraries
-
-        // Your web app's Firebase configuration
-        const firebaseConfig = {
-            apiKey: "AIzaSyAyTW4s8JgrWIDPBhdPXMBEMoRuZViYfAA",
-            authDomain: "spck-19e21.firebaseapp.com",
-            projectId: "spck-19e21",
-            storageBucket: "spck-19e21.appspot.com",
-            messagingSenderId: "701815580026",
-            appId: "1:701815580026:web:f0d80c09bc36ca24d322c3",
-            measurementId: "G-7LG4CCBKDZ"
-        };
-        // Initialize Firebase
-        const app = initializeApp(firebaseConfig);
-
-        const db = getDatabase(app)
-
-        var email = document.getElementById("email");
-        var password = document.getElementById("password");
-
-        document.getElementById("submit").addEventListener('click', function (e) {
-            e.preventDefault();
-            get(ref(db, 'user/')).then((accounts) => {
-                const arr = Object.values(accounts.val());
-                arr.map((element) => {
-                    if (element.email == email.value && element.password == password.value) {
-                        alert("Login success")
-                    }
-                })
-
-
-
-
-            })
-        })
-    </script>
+    <script type="module" src="./class/firebase.js"></script>
+    <script type="module" src="./Condition.js"></script>
    
 </body>
 

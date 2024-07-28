@@ -1,112 +1,141 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Beautiful NavBar</title>
-    <link rel="stylesheet" href="Home.css">
-</head>
-<body>
-    <nav>
-        <div class="logo"><img src="https://lh3.googleusercontent.com/pw/AP1GczNDuBru-MA_WTx1a2aeZUSayk3hQEgOjVLBR0LafF6h17VELeCMvu-W3Ajsbi8NZ9PUEmlyblU1v4siIgYUfiuYxvQQ-5J-HNrP2wFq10dPGlu7pofj-Or5pTER3tHcsoLFBky8pq0-nxT3Sl4DyNtzmo6nP73omBct1u--9xDzuIb2VyPKk0p7uHEVNiilDSftOrk6l1D7KtV5Vwn7Wpu40H_vFSV3NXpeiCRscja0SF5QIz9tlM_43NMgQdqN2jY20L1q_dle-cuH1dPLy1FulvN4m2-i_YRkTl7BbO1l5sC1enirLNNM9__9qwXTkCW_mjPXT265c9MQAl4FGKWG-PtZbTjUE49wNbF0if2rabT0l-kFvypLLAE99hnr1T7NwM7Bwtds-bVUaKoAnkj0JGyNDwUdJ7CdlqCWP1UkEMn7UYfKCYZKG_HO0cZgvraLrQOlWVYvO9H5BzQs2T7SQdeSwhzxs04Ivv8WplC14-J-GuK1rw4bnYzwpE3KUfIQPN0VuzmndACN6tXQckob_yCKPKBZKSDMcGmGsUBlPXUjesAP9IFcvf6rQ4wF_ivXkbvIrYGoEzsneZkEFkj1jPtdbx7QVXQyCWwFf2Fio_ht1zFWRPGwznxMgFBxdUHgW5spwLr60WYs0epj3vs8XrXofLgRUPfQWwwdIH5FIlnWecW-G4zDG-TvzqwEI9DvYORZhTOuff6VPmeEhO-JigcX41btfgniuXQmeaOGHzKDW8Jgz0GqgMAnthopU-NjU_X9IlXx4bT8K-e7kmxMCqUwHxU3B9hGUmHdK_ayukg3ab7TtDjC7Cuw-zO9g89V2fPuD00UX893B4D3_VNiqPHkhhvdSGn1kUuGHGneMsECcXjvZXghANMoZSXjT-2Uc6o_lUDJIxefwzyetavgSfX36R0RrbKL5yDgFwK4GQSmWeDyMIAUvt4pe52a49jzZ2mWfn47hZ1tm0deQK9d2yMrWVI=w474-h472-s-no-gm?authuser=0" alt=""></div>
-        <label for="menu-toggle" class="menu-icon">&#9776;</label>
-        <ul class="menu">
-            <li><a href="#home">Home</a></li>
-            <li><a href="#matches">Product</a></li>
-            <li><a href="#teams">Authors</a></li>
-            <li><a href="#players">About</a></li>
-
-        </ul>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>UEFA Teams</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="./Home.css" />
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg">
+      <div class="container-fluid">
+        <p class="navbar-brand" style="color: white">UEFA.com</p>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"> </span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="#">Matches</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Groups</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Video</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Stats</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Gaming</a>
+            </li>
+          </ul>
+        </div>
+        <div>
+          <button>Đăng kí</button>
+          <button>Đăng nhập</button>
+        </div>
+      </div>
     </nav>
-     <div class="news-container">
-        <h1>Latest News</h1>
-        <div class="news-item">
-            <h2>News Article 1</h2>
-            <p>This is the content of news article 1.</p>
+
+    <form style="position: relative" id="search-form" action="">
+      <input
+        type="text"
+        id="search"
+        name="search"
+        class="search"
+        placeholder="Search ...."
+      />
+      <i class="fa-solid fa-magnifying-glass icon-search"></i>
+    </form>
+
+    <div style="margin: 50px">
+      <div style="font-weight: bold; font-size: 50px">TEAMS</div>
+      <div class="container team-section">
+        <h2>Final</h2>
+        <div class="row">
+          <div class="col" id="product-list"></div>
         </div>
-        <div class="news-item">
-            <h2>News Article 2</h2>
-            <p>This is the content of news article 2.</p>
-        </div>
-        <div class="news-item">
-            <h2>News Article 3</h2>
-            <p>This is the content of news article 3.</p>
-        </div>
-        <div class="seemore">
-            <p>See more</p>
-        </div>
+      </div>
     </div>
 
-
-    <div class="players-container">
-        <h1>Suggest players</h1>
-        <div class="players-item">
-            <h2>Lamine Yamal</h2>
-            
+    <footer class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center mb-4">
+            <div
+              class="sponsors d-flex justify-content-center align-items-center flex-wrap"
+            >
+              <img src="" alt="Sponsor 1" />
+              <img src="" alt="Sponsor 2" />
+              <img src="" alt="Sponsor 3" />
+              <img src="" alt="Sponsor 4" />
+              <img src="" alt="Sponsor 5" />
+              <img src="" alt="Sponsor 6" />
+              <img src="" alt="Sponsor 7" />
+              <img src="" alt="Sponsor 8" />
+            </div>
+          </div>
+<div class="col-md-4 text-center">
+            <ul class="list-unstyled">
+              <li><a href="#">Matches</a></li>
+              <li><a href="#">Groups</a></li>
+              <li><a href="#">Video</a></li>
+              <li><a href="#">Stats</a></li>
+              <li><a href="#">Gaming</a></li>
+              <li><a href="#">Teams</a></li>
+            </ul>
+          </div>
+          <div class="col-md-4 text-center">
+            <ul class="list-unstyled">
+              <li><a href="#">News</a></li>
+              <li><a href="#">Tickets</a></li>
+              <li><a href="#">Event guide</a></li>
+              <li><a href="#">History</a></li>
+              <li><a href="#">About</a></li>
+              <li><a href="#">Store</a></li>
+            </ul>
+          </div>
+          <div class="col-md-4 text-center">
+            <ul class="list-unstyled">
+              <li><a href="#">UEFA.com</a></li>
+              <li><a href="#">UEFA Foundation</a></li>
+              <li><a href="#">Store</a></li>
+            </ul>
+          </div>
         </div>
-        <div class="players-item">
-            <h2>Jude Belllingham</h2>
-            
+        <div class="row mt-4">
+          <div class="col-md-12 text-center">
+            <ul class="list-unstyled d-flex justify-content-center">
+              <li class="mx-2"><a href="#">Privacy</a></li>
+              <li class="mx-2"><a href="#">Terms and conditions</a></li>
+              <li class="mx-2"><a href="#">Cookie policy</a></li>
+              <li class="mx-2"><a href="#">Cookie Settings</a></li>
+            </ul>
+            <p>© 1998-2024 UEFA. All rights reserved.</p>
+          </div>
         </div>
-        <div class="players-item">
-            <h2>Phil Foden</h2>
-            
-        </div>
-        <div class="seemore">
-            <p>See more</p>
-        </div>
-    </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <footer class="footer-distributed">
-
-        <div class="footer-right">
-
-            <a href="#"><i class="fa fa-facebook"></i></a>
-            <a href="#"><i class="fa fa-twitter"></i></a>
-            <a href="#"><i class="fa fa-linkedin"></i></a>
-            <a href="#"><i class="fa fa-github"></i></a>
-
-        </div>
-
-        <div class="footer-left">
-
-            <p class="footer-links">
-                <a class="link-1" href="#">Home</a>
-
-                <a href="#">Blog</a>
-
-                <a href="#">Pricing</a>
-
-                <a href="#">About</a>
-
-                <a href="#">Faq</a>
-
-                <a href="#">Contact</a>
-            </p>
-
-            <p>Company Name &copy; 2015</p>
-        </div>
-
+      </div>
     </footer>
-    <script src="Home.js"></script>
-</body>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script type="module" src="./Home.js"></script>
+  </body>
 </html>
