@@ -13,47 +13,10 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
     />
     <link rel="stylesheet" href="./Home.css" />
+    <link rel="stylesheet" href="nav.css">
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg">
-      <div class="container-fluid">
-        <p class="navbar-brand" style="color: white">UEFA.com</p>
-        <button
-          class="navbar-toggler"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarNav"
-          aria-controls="navbarNav"
-          aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
-          <span class="navbar-toggler-icon"> </span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-              <a class="nav-link" href="#">Matches</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Groups</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Video</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Stats</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Gaming</a>
-            </li>
-          </ul>
-        </div>
-        <div>
-          <button>Đăng kí</button>
-          <button>Đăng nhập</button>
-        </div>
-      </div>
-    </nav>
+    <div id="nav-container"></div>
 
     <form style="position: relative" id="search-form" action="">
       <input
@@ -137,5 +100,6 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <script type="module" src="./Home.js"></script>
+    <script src="nav.js"></script>
   </body>
 </html>
