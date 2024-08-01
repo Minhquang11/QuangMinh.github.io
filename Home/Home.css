@@ -1,19 +1,159 @@
-
-
-.footer {
-  background-color: #003399;
-  color: white;
-  padding: 20px 0;
+/* Navbar styles */
+.navbar {
+  background-color: #343a40; /* Dark background color */
+  padding: 10px 20px;
 }
-.footer a {
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navbar-toggler {
+  border: none;
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3E%3Cpath stroke='%23ffffff' stroke-width='2' d='M5 7h20M5 15h20M5 23h20'/%3E%3C/svg%3E");
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.nav-item {
+  margin-left: 10px;
+}
+
+.nav-link {
+  color: white;
+  font-size: 1rem;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  background-color: #495057; /* Slightly lighter dark color for hover effect */
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3E%3Cpath stroke='%23ffffff' stroke-width='2' d='M5 7h20M5 15h20M5 23h20'/%3E%3C/svg%3E");
+}
+
+button {
+  background-color: #007bff; /* Blue background color */
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  margin-left: 10px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker blue for hover effect */
+}
+
+button:focus {
+  outline: none; /* Remove outline on focus */
+}
+/* Footer styles */
+.footer {
+  background-color: #343a40; /* Dark background color */
+  color: white;
+  padding: 40px 0;
+}
+
+.footer .container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.footer .sponsors img {
+  max-width: 100px;
+  margin: 10px;
+}
+
+.footer .text-center {
+  text-align: center;
+}
+
+.footer .list-unstyled {
+  padding: 0;
+  list-style: none;
+}
+
+.footer .list-unstyled li {
+  margin-bottom: 10px;
+}
+
+.footer .list-unstyled a {
   color: white;
   text-decoration: none;
 }
-.footer a:hover {
+
+.footer .list-unstyled a:hover {
   text-decoration: underline;
 }
-.sponsors img {
-  width: 80px;
-  height: auto;
-  margin: 0 10px;
+
+.footer .d-flex {
+  display: flex;
+}
+
+.footer .justify-content-center {
+  justify-content: center;
+}
+
+.footer .align-items-center {
+  align-items: center;
+}
+
+.footer .flex-wrap {
+  flex-wrap: wrap;
+}
+
+.footer .mx-2 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.footer p {
+  margin: 10px 0 0;
+  font-size: 0.875rem;
+}
+
+
+
+
+img{
+  width: 48px;
+  height: 48px;
+}
+.final{
+  display: flex;
+}
+
+.semi-final{
+  display: flex;
+ 
+}
+.quarter-finals{
+  display: flex;
+ 
+}
+.roundof16{
+  display: flex;
+ 
+}
+.GS{
+  display: flex;
+ 
+}
+.nation{
+  padding-left: 100px;
+}
+.teams{
+  margin-left: 100px;
 }
