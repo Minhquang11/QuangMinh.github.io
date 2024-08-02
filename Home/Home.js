@@ -40,24 +40,24 @@ let navList = document.createElement("ul");
 navList.classList.add("navbar-nav");
 
 let navItems = [
-    { name: "Matches", href: "#" },
-    { name: "Groups", href: "#" },
-    { name: "Video", href: "#" },
-    { name: "Stats", href: "#" },
-    { name: "Gaming", href: "#" }
+  { name: "Matches", href: "#" },
+  { name: "Groups", href: "#" },
+  { name: "Video", href: "#" },
+  { name: "Stats", href: "#" },
+  { name: "Gaming", href: "#" },
 ];
 
-navItems.forEach(item => {
-    let navItem = document.createElement("li");
-    navItem.classList.add("nav-item");
-    
-    let navLink = document.createElement("a");
-    navLink.classList.add("nav-link");
-    navLink.setAttribute("href", item.href);
-    navLink.innerText = item.name;
-    
-    navItem.appendChild(navLink);
-    navList.appendChild(navItem);
+navItems.forEach((item) => {
+  let navItem = document.createElement("li");
+  navItem.classList.add("nav-item");
+
+  let navLink = document.createElement("a");
+  navLink.classList.add("nav-link");
+  navLink.setAttribute("href", item.href);
+  navLink.innerText = item.name;
+
+  navItem.appendChild(navLink);
+  navList.appendChild(navItem);
 });
 
 collapseDiv.appendChild(navList);
@@ -81,3 +81,47 @@ navbar.appendChild(container);
 
 // Append the navbar to the element with ID "nav-container"
 document.getElementById("nav-container").appendChild(navbar);
+
+/// body
+const nationsFinal = [
+  {
+    id: "1",
+    name: "Spain",
+    flagUrl: "https://img.uefa.com/imgml/flags/240x240/ESP.png",
+  },
+  {
+    id: "2",
+    name: "England",
+    flagUrl: "https://img.uefa.com/imgml/flags/240x240/ENG.png",
+  },
+
+  {
+    id: "3",
+    name: "France",
+    flagUrl: "https://img.uefa.com/imgml/flags/240x240/FRA.png",
+  },
+  {
+    id: "3",
+    name: "France",
+    flagUrl: "https://img.uefa.com/imgml/flags/240x240/FRA.png",
+  },
+];
+
+let htmlString = "";
+for (let i = 0; i < nationsFinal.length; i++) {
+  const product = nationsFinal[i];
+  htmlString += `
+    <div class="nation" onClick="navigationNewPage('${product.id}')">
+      <img src="${product.flagUrl}" alt="" />
+      <p>${product.name}</p>
+    </div>
+  `;
+}
+
+document.getElementById("nations-container").innerHTML = htmlString;
+
+function navigationNewPage(id) {
+  window.location.href = `../Spain/ESP.html?id=${id}`;
+}
+
+window.navigationNewPage = navigationNewPage;

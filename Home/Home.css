@@ -124,36 +124,29 @@ button:focus {
   font-size: 0.875rem;
 }
 
-
-
-
-img{
+img {
   width: 48px;
   height: 48px;
 }
-.final{
+.final {
   display: flex;
 }
 
-.semi-final{
+.semi-final {
   display: flex;
- 
 }
-.quarter-finals{
+.quarter-finals {
   display: flex;
- 
 }
-.roundof16{
+.roundof16 {
   display: flex;
- 
 }
-.GS{
+.GS {
   display: flex;
- 
 }
-.nation{
-  padding-left: 100px;
+.nation {
+  /* padding-left: 100px; */
 }
-.teams{
+.teams {
   margin-left: 100px;
 }
