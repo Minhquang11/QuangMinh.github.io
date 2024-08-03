@@ -133,6 +133,50 @@ const nationsQuater = [
   },
 ];
 
+const nationsRO16 = [
+  {
+    id: "9",
+    name: "Austria",
+    flagUrl: "https://img.uefa.com/imgml/flags/240x240/AUS.png",
+  },
+  {
+    id: "10",
+    name: "Belgium",
+    flagUrl: "https://img.uefa.com/imgml/flags/240x240/BEL.png",
+  },
+  {
+    id: "11",
+    name: "Denmark",
+    flagUrl: "https://img.uefa.com/imgml/flags/240x240/DEN.png",
+  },
+  {
+    id: "12",
+    name: "Georgia",
+    flagUrl: "https://img.uefa.com/imgml/flags/240x240/GEO.png",
+  },
+  {
+    id: "13",
+    name: "Italy",
+    flagUrl: "https://img.uefa.com/imgml/flags/240x240/ITA.png",
+  },
+  {
+    id: "14",
+    name: "Romania",
+    flagUrl: "https://img.uefa.com/imgml/flags/240x240/ROM.png",
+  },
+  {
+    id: "15",
+    name: "Slovakia",
+    flagUrl: "https://img.uefa.com/imgml/flags/240x240/SVK.png",
+  },
+  {
+    id: "16",
+    name: "Slovenia",
+    flagUrl: "https://img.uefa.com/imgml/flags/240x240/SVN.png",
+  },
+];
+
+
 
 let htmlString = "";
 for (let i = 0; i < nationsFinal.length; i++) {
@@ -167,9 +211,21 @@ for (let i = 0; i < nationsQuater.length; i++) {
   `;
 }
 
+let htmlString3 = "";
+for (let i = 0; i < nationsRO16.length; i++) {
+  const product = nationsRO16[i];
+  htmlString3 += `
+    <div class="nation" onClick="navigationNewPage('${product.id}')">
+      <img src="${product.flagUrl}" alt="" />
+      <p>${product.name}</p>
+    </div>
+  `;
+}
+
 document.getElementById("nations-container").innerHTML = htmlString;
 document.getElementById("nations-container1").innerHTML = htmlString1;
 document.getElementById("nations-container2").innerHTML = htmlString2;
+document.getElementById("nations-container3").innerHTML = htmlString3;
 
 
 function navigationNewPage(id) {
