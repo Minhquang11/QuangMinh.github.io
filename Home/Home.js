@@ -95,17 +95,44 @@ const nationsFinal = [
     flagUrl: "https://img.uefa.com/imgml/flags/240x240/ENG.png",
   },
 
+];
+
+const nationsSemi = [
   {
     id: "3",
     name: "France",
     flagUrl: "https://img.uefa.com/imgml/flags/240x240/FRA.png",
   },
   {
-    id: "3",
-    name: "France",
-    flagUrl: "https://img.uefa.com/imgml/flags/240x240/FRA.png",
+    id: "4",
+    name: "Netherlands",
+    flagUrl: "https://img.uefa.com/imgml/flags/240x240/NED.png",
   },
 ];
+
+const nationsQuater = [
+  {
+    id: "5",
+    name: "Germany",
+    flagUrl: "https://img.uefa.com/imgml/flags/240x240/GER.png",
+  },
+  {
+    id: "6",
+    name: "Portugal",
+    flagUrl: "https://img.uefa.com/imgml/flags/240x240/POR.png",
+  },
+  {
+    id: "7",
+    name: "Switzerland",
+    flagUrl: "https://img.uefa.com/imgml/flags/240x240/SUI.png",
+  },
+  {
+    id: "8",
+    name: "Türki̇ye",
+    flagUrl: "https://img.uefa.com/imgml/flags/240x240/TUR.png",
+  },
+];
+
 
 let htmlString = "";
 for (let i = 0; i < nationsFinal.length; i++) {
@@ -118,7 +145,32 @@ for (let i = 0; i < nationsFinal.length; i++) {
   `;
 }
 
+let htmlString1 = "";
+for (let i = 0; i < nationsSemi.length; i++) {
+  const product = nationsSemi[i];
+  htmlString1 += `
+    <div class="nation" onClick="navigationNewPage('${product.id}')">
+      <img src="${product.flagUrl}" alt="" />
+      <p>${product.name}</p>
+    </div>
+  `;
+}
+
+let htmlString2 = "";
+for (let i = 0; i < nationsQuater.length; i++) {
+  const product = nationsQuater[i];
+  htmlString2 += `
+    <div class="nation" onClick="navigationNewPage('${product.id}')">
+      <img src="${product.flagUrl}" alt="" />
+      <p>${product.name}</p>
+    </div>
+  `;
+}
+
 document.getElementById("nations-container").innerHTML = htmlString;
+document.getElementById("nations-container1").innerHTML = htmlString1;
+document.getElementById("nations-container2").innerHTML = htmlString2;
+
 
 function navigationNewPage(id) {
   window.location.href = `../Spain/ESP.html?id=${id}`;

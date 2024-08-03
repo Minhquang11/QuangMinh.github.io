@@ -62,7 +62,7 @@ export const data = [
   },
 
   {
-    id: "0004",
+    id: "4",
     name: "Netherlands",
     flag: "https://img.uefa.com/imgml/flags/240x240/NED.png",
     match_played: "6",
@@ -83,7 +83,7 @@ export const data = [
   },
 
   {
-    id: "0005",
+    id: "5",
     name: "Germany",
     flag: "https://img.uefa.com/imgml/flags/240x240/GER.png",
     match_played: "5",
@@ -104,7 +104,7 @@ export const data = [
   },
 
   {
-    id: "0006",
+    id: "6",
     name: "Portugal",
     flag: "https://img.uefa.com/imgml/flags/240x240/POR.png",
     match_played: "5",
@@ -125,7 +125,7 @@ export const data = [
   },
 
   {
-    id: "0007",
+    id: "7",
     name: "Switzerland",
     flag: "https://img.uefa.com/imgml/flags/240x240/SUI.png",
     match_played: "5",
@@ -146,7 +146,7 @@ export const data = [
   },
 
   {
-    id: "0008",
+    id: "8",
     name: "Turkey",
     flag: "https://img.uefa.com/imgml/flags/240x240/TUR.png",
     match_played: "5",
@@ -166,7 +166,7 @@ export const data = [
     red_card: "1",
   },
   {
-    id: "0009",
+    id: "9",
     name: "Austria",
     flag: "https://img.uefa.com/imgml/flags/240x240/AUS.png",
     match_played: "4",
@@ -187,7 +187,7 @@ export const data = [
   },
 
   {
-    id: "0010",
+    id: "10",
     name: "Belgium",
     flag: "https://img.uefa.com/imgml/flags/240x240/BEL.png",
     match_played: "4",
@@ -207,7 +207,7 @@ export const data = [
     red_card: "0",
   },
   {
-    id: "0011",
+    id: "11",
     name: "Denmark",
     flag: "https://img.uefa.com/imgml/flags/240x240/DEN.png",
     match_played: "4",
@@ -1151,6 +1151,449 @@ export const players = [
         position: "Forwards",
         image:
           "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250134138.png",
+      },
+    ],
+  },
+  {
+    id: "4",
+    name: "Spain",
+    infoplayer: [
+      {
+        name: "Bart Verbruggen",
+        age: "21",
+        match: "6",
+        position: "Goalkepper",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250160574.png",
+      },
+
+      {
+        name: "Justin Bijlow",
+        age: "26",
+        match: "-",
+        position: "Goalkepper",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250069830.png",
+      },
+
+      {
+        name: "Mark Flekken",
+        age: "31",
+        match: "-",
+        position: "Goalkepper",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250167143.png",
+      },
+
+      {
+        name: "Lutsharel Geertruida",
+        age: "23",
+        match: "2",
+        position: "Defender",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250104075.png",
+      },
+
+      {
+        name: "Matthijs De Ligt",
+        age: "24",
+        match: "-",
+        position: "Defender",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/50327424.png",
+      },
+
+      {
+        name: "Virgil van Dijk",
+        age: "33",
+        match: "6",
+        position: "Defender",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/50327420.png",
+      },
+
+      {
+        name: "Nathan Aké",
+        age: "29",
+        match: "6",
+        position: "Defender",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250027008.png",
+      },
+
+      {
+        name: "Stefan De Vrij",
+        age: "32",
+        match: "6",
+        position: "Defender",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/50327428.png",
+      },
+      {
+        name: "Micky van de Ven",
+        age: "23",
+        match: "4",
+        position: "Defender",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/50327427.png",
+      },
+
+      {
+        name: "Daley Blind",
+        age: "34",
+        match: "1",
+        position: "Defender",
+        image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/108908.png",
+      },
+      {
+        name: "Denzel Dumfries",
+        age: "28",
+        match: "5",
+        position: "Defender",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250112690.png",
+      },
+
+      {
+        name: "Georginio Wijnaldum",
+        age: "33",
+        match: "3",
+        position: "Midfielder",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250187661.png",
+      },
+      {
+        name: "Tijjani Reijnders",
+        age: "25",
+        match: "6",
+        position: "Midfielder",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250121294.png",
+      },
+      {
+        name: "Joey Veerman",
+        age: "25",
+        match: "6",
+        position: "Midfielder",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250105890.png",
+      },
+      {
+        name: "Ian Maatsen",
+        age: "22",
+        match: "-",
+        position: "Midfielder",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250117581.png",
+      },
+      {
+        name: "Jerdy Schouten",
+        age: "27",
+        match: "6",
+        position: "Midfielder",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250172787.png",
+      },
+      {
+        name: "Ryan Gravenberch",
+        age: "22",
+        match: "-",
+        position: "Midfielder",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250113001.png",
+      },
+      {
+        name: "Xavi Simons",
+        age: "21",
+        match: "6",
+        position: "Midfielder",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250128451.png",
+      },
+      {
+        name: "Wout Weghorst",
+        age: "31",
+        match: "6",
+        position: "Forwards",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250078682.png",
+      },
+      {
+        name: "Memphis Depay",
+        age: "30",
+        match: "6",
+        position: "Forwards",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250024860.png",
+      },
+      {
+        name: "Cody Gakpo",
+        age: "25",
+        match: "6",
+        position: "Forwards",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250096849.png",
+      },
+      {
+        name: "Jeremie Frimpong",
+        age: "23",
+        match: "3",
+        position: "Forwards",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250113276.png",
+      },
+      {
+        name: "Donyell Malen",
+        age: "25",
+        match: "4",
+        position: "Forwards",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250081555.png",
+      },
+      {
+        name: "Brian Brobbey",
+        age: "22",
+        match: "1",
+        position: "Forwards",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250112997.png",
+      },
+      {
+        name: "Joshua Zirkzee",
+        age: "23",
+        match: "2",
+        position: "Forwards",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250106762.png",
+      },
+      {
+        name: "Steven Bergwijn",
+        age: "26",
+        match: "2",
+        position: "Forwards",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250066551.png",
+      },
+    ],
+  },
+  {
+    id: "5",
+    name: "Germany",
+    infoplayer: [
+      {
+        name: "Manuel Neuer",
+        age: "38",
+        match: "5",
+        position: "Goalkepper",
+        image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/97923.png",
+      },
+
+      {
+        name: "Oliver Baumann",
+        age: "34",
+        match: "-",
+        position: "Goalkepper",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250005333.png",
+      },
+
+      {
+        name: "Marc-André ter Stegen",
+        age: "32",
+        match: "-",
+        position: "Goalkepper",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250007631.png",
+      },
+
+      {
+        name: "Antonio Rüdiger",
+        age: "31",
+        match: "5",
+        position: "Defender",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250028211.png",
+      },
+
+      {
+        name: "David Raum",
+        age: "26",
+        match: "3",
+        position: "Defender",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250110361.png",
+      },
+
+      {
+        name: "Jonathan Tah",
+        age: "28",
+        match: "5",
+        position: "Defender",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250055660.png",
+      },
+
+      {
+        name: "Joshua Kimmich",
+        age: "29",
+        match: "5",
+        position: "Defender",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250070417.png",
+      },
+
+      {
+        name: "Nico Schlotterbeck",
+        age: "24",
+        match: "2",
+        position: "Defender",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250134856.png",
+      },
+      {
+        name: "Waldemar Anton",
+        age: "27",
+        match: "2",
+        position: "Defender",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250101238.png",
+      },
+
+      {
+        name: "Maximilian Mittelstädt",
+        age: "27",
+        match: "4",
+        position: "Defender",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250090766.png",
+      },
+      {
+        name: "Benjamin Henrichs",
+        age: "27",
+        match: "1",
+        position: "Defender",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250058258.png",
+      },
+
+      {
+        name: "Robin Koch",
+        age: "27",
+        match: "-",
+        position: "Defender",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250126501.png",
+      },
+      {
+        name: "Pascal Gross",
+        age: "33",
+        match: "1",
+        position: "Midfielder",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250029535.png",
+      },
+      {
+        name: "Toni Kroos",
+        age: "34",
+        match: "5",
+        position: "Midfielder",
+        image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/103147.png",
+      },
+      {
+        name: "Jamal Musiala",
+        age: "21",
+        match: "5",
+        position: "Midfielder",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250124430.png",
+      },
+      {
+        name: "Chris Führich",
+        age: "26",
+        match: "1",
+        position: "Midfielder",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250192048.png",
+      },
+      {
+        name: "Florian Wirtz",
+        age: "21",
+        match: "5",
+        position: "Midfielder",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250139445.png",
+      },
+      {
+        name: "Leroy Sané",
+        age: "28",
+        match: "5",
+        position: "Midfielder",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250063984.png",
+      },
+      {
+        name: "İlkay Gündoğan",
+        age: "33",
+        match: "5",
+        position: "Midfielder",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250005335.png",
+      },
+      {
+        name: "Robert Andrich",
+        age: "29",
+        match: "5",
+        position: "Midfielder",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250055957.png",
+      },
+      {
+        name: "Emre Can",
+        age: "30",
+        match: "4",
+        position: "Midfielder",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250017824.png",
+      },
+      {
+        name: "Kai Havertz",
+        age: "25",
+        match: "5",
+        position: "Forwards",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250087938.png",
+      },
+      {
+        name: "Niclas Füllkrug",
+        age: "31",
+        match: "5",
+        position: "Forwards",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250041844.png",
+      },
+      {
+        name: "Thomas Müller",
+        age: "34",
+        match: "2",
+        position: "Forwards",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250003318.png",
+      },
+      {
+        name: "Maximilian Beier",
+        age: "21",
+        match: "1",
+        position: "Forwards",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250124222.png",
+      },
+      {
+        name: "Deniz Undav",
+        age: "27",
+        match: "1",
+        position: "Forwards",
+        image:
+          "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250124222.png",
       },
     ],
   },

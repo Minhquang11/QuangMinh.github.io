@@ -145,8 +145,11 @@ img {
   display: flex;
 }
 .nation {
-  /* padding-left: 100px; */
+  padding-left: 100px;
 }
 .teams {
+  margin-left: 100px;
+}
+.title{
   margin-left: 100px;
 }
