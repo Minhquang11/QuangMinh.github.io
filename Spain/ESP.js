@@ -2492,8 +2492,6 @@ export const players = [
   {
     id: "9",
     name: "Portugal",
-    infoplayer: [
-      
-    ]
-  }
+    infoplayer: [],
+  },
 ];
