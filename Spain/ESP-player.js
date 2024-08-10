@@ -1,67 +1,629 @@
-import { data } from "./ESP.js";
-import { players } from "./ESP.js";
+let data = {
+  ESP: [
+    {
+      id: "1",
+      name: "David Raya",
+      age: "28",
+      match: "1",
+      position: "Goalkeeper",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250171278.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0002",
+      name: "Álex Remiro",
+      age: "29",
+      match: "-",
+      position: "Goalkeeper",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250066244.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0003",
+      name: "Unai Simón",
+      age: "27",
+      match: "6",
+      position: "Goalkeeper",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250076116.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0004",
+      name: "Dani Carvajal",
+      age: "32",
+      match: "5",
+      position: "Defender",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250024448.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0005",
+      name: "Robin Le Normand",
+      age: "27",
+      match: "6",
+      position: "Defender",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250112513.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0006",
+      name: "Nacho",
+      age: "34",
+      match: "4",
+      position: "Defender",
+      image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/1900122.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0007",
+      name: "Daniel Vivian",
+      age: "25",
+      match: "2",
+      position: "Defender",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250194503.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0008",
+      name: "Alejandro Grimaldo",
+      age: "28",
+      match: "2",
+      position: "Defender",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250042422.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0009",
+      name: "Aymeric Laporte",
+      age: "30",
+      match: "6",
+      position: "Defender",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250027046.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0010",
+      name: "Marc Cucurella",
+      age: "25",
+      match: "6",
+      position: "Defender",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250076168.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0011",
+      name: "Mikel Merino",
+      age: "28",
+      match: "7",
+      position: "Midfielder",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250080572.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0012",
+      name: "Fabián Ruiz",
+      age: "28",
+      match: "6",
+      position: "Midfielder",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250115436.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0013",
+      name: "Álex Baena",
+      age: "22",
+      match: "2",
+      position: "Midfielder",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250106963.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0014",
+      name: "Rodri",
+      age: "28",
+      match: "6",
+      position: "Midfielder",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250082664.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0015",
+      name: "Nico Williams",
+      age: "22",
+      match: "6",
+      position: "Midfielder",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250163185.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0016",
+      name: "Martin Zubimendi",
+      age: "25",
+      match: "4",
+      position: "Midfielder",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250143679.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0017",
+      name: "Pedri",
+      age: "21",
+      match: "4",
+      position: "Midfielder",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250143693.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0018",
+      name: "Mikel Oyarzabal",
+      age: "27",
+      match: "7",
+      position: "Midfielder",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250097180.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0019",
+      name: "Álvaro Morata",
+      age: "31",
+      match: "7",
+      position: "Forward",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250024456.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0020",
+      name: "Joselu",
+      age: "34",
+      match: "2",
+      position: "Forward",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250005193.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0021",
+      name: "Dani Olmo",
+      age: "26",
+      match: "6",
+      position: "Forward",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250081720.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0022",
+      name: "Ferran Torres",
+      age: "24",
+      match: "5",
+      position: "Forward",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250088320.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0023",
+      name: "Lamine Yamal",
+      age: "17",
+      match: "7",
+      position: "Forward",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250176450.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0024",
+      name: "Jesús Navas",
+      age: "38",
+      match: "3",
+      position: "Forward",
+      image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/69173.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0025",
+      name: "Fermín López",
+      age: "21",
+      match: "1",
+      position: "Forward",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250164780.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+    {
+      id: "0026",
+      name: "Ayoze Pérez",
+      age: "30",
+      match: "1",
+      position: "Forward",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250075625.png",
+      club_number: "",
+      nation_number: "",
+      country: "",
+      date_of_birth: "",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
+    },
+  ],
+};
 
-// fitter id
-console.log(data);
-const query = window.location.search;
-const urlID = new URLSearchParams(query);
+for (let items of data.ESP) {
+  let card = document.createElement("div");
+  card.classList.add("card");
 
-const id = urlID.get("id");
-console.log(id);
-
-const dataNew = data.find(function (item) {
-  return item.id === id;
-});
-
-const nameTeam = players.find(function (item) {
-  return item.id === id;
-});
-
-console.log(nameTeam);
-
-let htmlString = "";
-
-htmlString += ` <div class="all">
-  <div class="nationname">
-    <img
-      class="nationflag"
-      src="${dataNew.flag}"
-    />
-    alt="${nameTeam.name}" />
-    <h1 class="flagname">${dataNew.name}</h1>
-  </div>
-    <div id="player-infor"></div>
-  </div>`;
-
-document.getElementById("information").innerHTML = htmlString;
-
-const playerInfoContainer = document.getElementById("player-infor");
-
-for (let index = 0; index < nameTeam.infoplayer.length; index++) {
-  const player = nameTeam.infoplayer[index];
-  console.log(player);
-  const card = document.createElement("div");
-  card.classList.add("player-container");
-
-  const imgContainer = document.createElement("div");
+  let imgContainer = document.createElement("div");
   imgContainer.classList.add("img-players");
 
-  const image = document.createElement("img");
-  image.setAttribute("src", player.image);
-  image.setAttribute("alt", player.name);
 
-  imgContainer.appendChild(image);
-  card.appendChild(imgContainer);
 
-  const container = document.createElement("div");
+  let container = document.createElement("div");
   container.classList.add("container");
 
-  const name = document.createElement("h5");
-  name.classList.add("players-name");
-  name.innerText = player.name;
+  let image = document.createElement("img");
+  image.setAttribute("src", items.image);
+  imgContainer.appendChild(image);
+  container.appendChild(imgContainer);
 
+  let name = document.createElement("h5");
+  name.classList.add("product-name");
+  name.innerText = items.name.toUpperCase();
   container.appendChild(name);
-  card.appendChild(container);
+ card.appendChild(container);
 
-  playerInfoContainer.appendChild(card);
+
+
+ 
+  document.getElementById("player-infor").appendChild(card);
 }
