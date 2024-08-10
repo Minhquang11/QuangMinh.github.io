@@ -6,7 +6,22 @@ let data={
             age: "28",
             match: "1",
             position: "Goalkeeper",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250171278.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250171278.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0002",
@@ -14,7 +29,22 @@ let data={
             age: "29",
             match: "-",
             position: "Goalkeeper",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250066244.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250066244.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0003",
@@ -22,7 +52,22 @@ let data={
             age: "27",
             match: "6",
             position: "Goalkeeper",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250076116.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250076116.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0004",
@@ -30,7 +75,22 @@ let data={
             age: "32",
             match: "5",
             position: "Defender",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250024448.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250024448.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0005",
@@ -38,7 +98,22 @@ let data={
             age: "27",
             match: "6",
             position: "Defender",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250112513.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250112513.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0006",
@@ -47,6 +122,20 @@ let data={
             match: "4",
             position: "Defender",
             image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/1900122.png"
+ ,           club_number:"",
+ nation_number:"",
+ country:"",
+ date_of_birth:"",
+ match_played:"",
+ minutes_played:"",
+ goals:"",
+ tackles:"",
+ balls_recovered:"",
+ passing_accuracy:"",
+ top_speed:"",
+ distance_covered:"",yellow_card:"",
+ red_card:""
+
         },
         {
             id: "0007",
@@ -54,7 +143,22 @@ let data={
             age: "25",
             match: "2",
             position: "Defender",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250194503.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250194503.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0008",
@@ -62,7 +166,22 @@ let data={
             age: "28",
             match: "2",
             position: "Defender",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250042422.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250042422.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0009",
@@ -70,7 +189,22 @@ let data={
             age: "30",
             match: "6",
             position: "Defender",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250027046.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250027046.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0010",
@@ -78,7 +212,22 @@ let data={
             age: "25",
             match: "6",
             position: "Defender",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250076168.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250076168.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0011",
@@ -86,7 +235,22 @@ let data={
             age: "28",
             match: "7",
             position: "Midfielder",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250080572.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250080572.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0012",
@@ -94,7 +258,22 @@ let data={
             age: "28",
             match: "6",
             position: "Midfielder",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250115436.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250115436.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0013",
@@ -102,7 +281,22 @@ let data={
             age: "22",
             match: "2",
             position: "Midfielder",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250106963.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250106963.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0014",
@@ -110,7 +304,22 @@ let data={
             age: "28",
             match: "6",
             position: "Midfielder",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250082664.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250082664.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0015",
@@ -118,7 +327,22 @@ let data={
             age: "22",
             match: "6",
             position: "Midfielder",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250163185.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250163185.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0016",
@@ -126,7 +350,22 @@ let data={
             age: "25",
             match: "4",
             position: "Midfielder",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250143679.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250143679.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0017",
@@ -134,7 +373,22 @@ let data={
             age: "21",
             match: "4",
             position: "Midfielder",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250143693.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250143693.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0018",
@@ -142,7 +396,22 @@ let data={
             age: "27",
             match: "7",
             position: "Midfielder",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250097180.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250097180.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0019",
@@ -150,7 +419,22 @@ let data={
             age: "31",
             match: "7",
             position: "Forward",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250024456.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250024456.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0020",
@@ -158,7 +442,22 @@ let data={
             age: "34",
             match: "2",
             position: "Forward",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250005193.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250005193.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0021",
@@ -166,7 +465,22 @@ let data={
             age: "26",
             match: "6",
             position: "Forward",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250081720.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250081720.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0022",
@@ -174,7 +488,22 @@ let data={
             age: "24",
             match: "5",
             position: "Forward",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250088320.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250088320.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0023",
@@ -182,7 +511,22 @@ let data={
             age: "17",
             match: "7",
             position: "Forward",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250176450.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250176450.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0024",
@@ -191,6 +535,20 @@ let data={
             match: "3",
             position: "Forward",
             image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/69173.png"
+   ,         club_number:"",
+   nation_number:"",
+   country:"",
+   date_of_birth:"",
+   match_played:"",
+   minutes_played:"",
+   goals:"",
+   tackles:"",
+   balls_recovered:"",
+   passing_accuracy:"",
+   top_speed:"",
+   distance_covered:"",yellow_card:"",
+   red_card:""
+
         },
         {
             id: "0025",
@@ -198,7 +556,22 @@ let data={
             age: "21",
             match: "1",
             position: "Forward",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250164780.png"
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250164780.png",
+            club_number:"",
+            nation_number:"",
+            country:"",
+            date_of_birth:"",
+            match_played:"",
+            minutes_played:"",
+            goals:"",
+            tackles:"",
+            balls_recovered:"",
+            passing_accuracy:"",
+            top_speed:"",
+            distance_covered:"",
+            yellow_card:"",
+            red_card:""
+
         },
         {
             id: "0026",
@@ -206,8 +579,23 @@ let data={
             age: "30",
             match: "1",
             position: "Forward",
-            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250075625.png"
-        }
+            image: "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250075625.png",
+       club_number:"",
+       nation_number:"",
+       country:"",
+       date_of_birth:"",
+       match_played:"",
+       minutes_played:"",
+       goals:"",
+       tackles:"",
+       balls_recovered:"",
+       passing_accuracy:"",
+       top_speed:"",
+       distance_covered:"",
+    yellow_card:"",
+    red_card:""
+
+            }
     ],
     
 
