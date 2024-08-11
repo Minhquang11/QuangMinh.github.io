@@ -5,11 +5,281 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <link rel="stylesheet" href="ESP.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+    />
+<head>
+    <style>
+    
+      body {
+        position: relative;
+        height: 100%;
+      }
+
+      .body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 100px;
+      }
+
+      .swiper {
+        width: 500px;
+        height: 520px;
+        padding-top: 200px;
+        padding-right: 225px;
+      }
+
+      .swiper-slide {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 18px;
+        font-size: 22px;
+        font-weight: bold;
+        color: #000000;
+      }
+
+      .swiper-slide:nth-child(1n) {
+        background-color: rgb(255, 255, 255);
+      }
+
+      .swiper-slide:nth-child(2n) {
+        background-color: rgb(255, 255, 255);
+      }
+
+      .swiper-slide:nth-child(3n) {
+        background-color: rgb(255, 255, 255);
+      }
+      .all-swiper {
+        background-color: #f4f4f4;
+        width: 600px;
+        height: 785px;
+        border-radius: 18px;
+        display: flex;
+        justify-content: center;
+        margin-right: 100px;
+  
+      }
+
+      
+      
+      #title {
+        padding-top: 15px;
+        padding-left: 125px;
+      }
+      .seemore:hover {
+        transform: translateY(-5px);
+        background-color: #f0f0f0;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      }
+    </style>
   </head>
 
   <body>
+    <div id="nav-container"></div>
+    <div class="body">
     <div id="information"></div>
+    <!-- Swiper -->
+    <div class="all-swiper">
+      <div class="BG">
+        <div id="title"></div>
+        <h1 style="padding-left: 125px;">Players:</h1>
+      </div>
 
-    <script src="ESP.js"></script>
+      <div class="swiper mySwiper">
+        <div class="swiper-wrapper">
+          <div
+            style="
+              display: flex;
+              flex-direction: column;
+              border: 2px solid black;
+            "
+            class="swiper-slide"
+          >
+            <div class="img">
+              <img
+                style="width: 100%"
+                src="https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250171278.png"
+                alt=""
+              />
+            </div>
+            <div class="name">
+              <p>David Raya</p>
+            </div>
+          </div>
+          <div
+            style="
+              display: flex;
+              flex-direction: column;
+              border: 2px solid black;
+            "
+            class="swiper-slide"
+          >
+            <div class="img">
+              <img
+                style="width: 100%"
+                src="https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250066244.png"
+                alt=""
+              />
+            </div>
+            <div class="name">
+              <p>Álex Remiro</p>
+            </div>
+          </div>
+          <div
+            style="
+              display: flex;
+              flex-direction: column;
+              border: 2px solid black;
+            "
+            class="swiper-slide"
+          >
+            <div class="img">
+              <img
+                style="width: 100%"
+                src="https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250076116.png"
+                alt=""
+              />
+            </div>
+            <div class="name">
+              <p>Unai Simón</p>
+            </div>
+          </div>
+          <div
+            style="
+              display: flex;
+              flex-direction: column;
+              border: 2px solid black;
+            "
+            class="swiper-slide"
+          >
+            <div class="img">
+              <img
+                style="width: 100%"
+                src="https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250024448.png"
+                alt=""
+              />
+            </div>
+            <div class="name">
+              <p>Dani Carvajal</p>
+            </div>
+          </div>
+          <div
+            style="
+              display: flex;
+              flex-direction: column;
+              border: 2px solid black;
+            "
+            class="swiper-slide"
+          >
+            <div class="img">
+              <img
+                style="width: 100%"
+                src="https://img.uefa.com/imgml/TP/players/3/2024/cutoff/1900122.png"
+                alt=""
+              />
+            </div>
+            <div class="name">
+              <p>Nacho</p>
+            </div>
+          </div>
+          <div
+            style="
+              display: flex;
+              flex-direction: column;
+              border: 2px solid black;
+            "
+            class="swiper-slide"
+          >
+            <div class="img">
+              <img
+                style="width: 100%"
+                src="https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250082664.png"
+                alt=""
+              />
+            </div>
+            <div class="name">
+              <p>Rodri</p>
+            </div>
+          </div>
+          <div
+            style="
+              display: flex;
+              flex-direction: column;
+              border: 2px solid black;
+            "
+            class="swiper-slide"
+          >
+            <div class="img">
+              <img
+                style="width: 100%"
+                src="https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250163185.png"
+                alt=""
+              />
+            </div>
+            <div class="name">
+              <p>Nico Williams</p>
+            </div>
+          </div>
+          <div
+            style="
+              display: flex;
+              flex-direction: column;
+              border: 2px solid black;
+            "
+            class="swiper-slide"
+          >
+            <div class="img">
+              <img
+                style="width: 100%"
+                src="https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250176450.png"
+                alt=""
+              />
+            </div>
+            <div class="name">
+              <p>Lamine Yamal</p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="seemore"
+          style="
+            border-radius: 20px;
+            margin-top: 100px;
+            height: 70px;
+            display: flex;
+            justify-content: center;
+          "
+        >
+          <a style="text-decoration: none" href="ESP-player.html"
+            ><h1>See more</h1></a
+          >
+        </div>
+      </div>
+    </div>
+  </div>
+
+    <!-- Swiper JS -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+    <!-- Initialize Swiper -->
+    <script>
+      var swiper = new Swiper(".mySwiper", {
+        effect: "cards",
+        grabCursor: true,
+      });
+    </script>
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script type="module" src="ESP.js"></script>
   </body>
 </html>

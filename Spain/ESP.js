@@ -26,16 +26,15 @@ for (const items of data.ESP) {
   // Create the main container
 
   // Create the title section
+
   let title = document.createElement("div");
   title.classList.add("title");
 
   let flag = document.createElement("div");
   flag.classList.add("flag");
   let flagImage = document.createElement("img");
-  flagImage.setAttribute(
-    "src",
-    items.flag
-  );
+  flagImage.classList.add("flagImg");
+  flagImage.setAttribute("src", items.flag);
   flagImage.setAttribute("alt", "England Flag");
   flag.appendChild(flagImage);
 
@@ -135,6 +134,119 @@ for (const items of data.ESP) {
   information.appendChild(overview);
 
   // Finally, append the entire structure to a parent element in the document
-document.getElementById("information").appendChild(overview);
-
+  document.getElementById("information").appendChild(overview);
 }
+
+var swiper = new Swiper(".mySwiper", {
+  effect: "cards",
+  grabCursor: true,
+});
+
+for (const item of data.ESP) {
+  let FlagName = document.createElement("div");
+  FlagName.classList.add("title");
+
+  let flag = document.createElement("div");
+  flag.classList.add("flag");
+  let flagImage = document.createElement("img");
+  flagImage.classList.add("flagImg");
+  flagImage.setAttribute("src", item.flag);
+  flagImage.setAttribute("alt", "England Flag");
+  flag.appendChild(flagImage);
+
+  let name = document.createElement("div");
+  name.classList.add("name");
+  let teamName = document.createElement("h1");
+  teamName.innerText = item.name;
+  name.appendChild(teamName);
+
+  FlagName.appendChild(flag)
+  FlagName.appendChild(name)
+  
+  document.getElementById("title").appendChild(FlagName);
+}
+
+
+// Create the navbar
+let navbar = document.createElement("nav");
+navbar.classList.add("navbar", "navbar-expand-lg");
+
+// Create the container
+let container = document.createElement("div");
+container.classList.add("container-fluid");
+
+// Create the brand
+let brand = document.createElement("p");
+brand.classList.add("navbar-brand");
+brand.style.color = "white";
+brand.innerText = "UEFA.com";
+container.appendChild(brand);
+
+// Create the toggler button
+let toggler = document.createElement("button");
+toggler.classList.add("navbar-toggler");
+toggler.setAttribute("type", "button");
+toggler.setAttribute("data-bs-toggle", "collapse");
+toggler.setAttribute("data-bs-target", "#navbarNav");
+toggler.setAttribute("aria-controls", "navbarNav");
+toggler.setAttribute("aria-expanded", "false");
+toggler.setAttribute("aria-label", "Toggle navigation");
+
+// Create the toggler icon
+let togglerIcon = document.createElement("span");
+togglerIcon.classList.add("navbar-toggler-icon");
+toggler.appendChild(togglerIcon);
+
+container.appendChild(toggler);
+
+// Create the collapse div
+let collapseDiv = document.createElement("div");
+collapseDiv.classList.add("collapse", "navbar-collapse");
+collapseDiv.setAttribute("id", "navbarNav");
+
+// Create the nav list
+let navList = document.createElement("ul");
+navList.classList.add("navbar-nav");
+
+let navItems = [
+  { name: "Matches", href: "#" },
+  { name: "Groups", href: "#" },
+  { name: "Video", href: "#" },
+  { name: "Stats", href: "#" },
+  { name: "Gaming", href: "#" },
+];
+
+navItems.forEach((item) => {
+  let navItem = document.createElement("li");
+  navItem.classList.add("nav-item");
+
+  let navLink = document.createElement("a");
+  navLink.classList.add("nav-link");
+  navLink.setAttribute("href", item.href);
+  navLink.innerText = item.name;
+
+  navItem.appendChild(navLink);
+  navList.appendChild(navItem);
+});
+
+collapseDiv.appendChild(navList);
+container.appendChild(collapseDiv);
+
+// Create the buttons
+let registerButton = document.createElement("button");
+registerButton.innerText = "Đăng kí";
+
+let loginButton = document.createElement("button");
+loginButton.innerText = "Đăng nhập";
+
+let buttonContainer = document.createElement("div");
+buttonContainer.appendChild(registerButton);
+buttonContainer.appendChild(loginButton);
+
+container.appendChild(buttonContainer);
+
+// Append the container to the navbar
+navbar.appendChild(container);
+
+// Append the navbar to the element with ID "nav-container"
+document.getElementById("nav-container").appendChild(navbar);
