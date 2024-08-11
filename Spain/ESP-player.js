@@ -621,9 +621,6 @@ for (let items of data.ESP) {
   name.innerText = items.name.toUpperCase();
   container.appendChild(name);
  card.appendChild(container);
-
-
-
  
   document.getElementById("player-infor").appendChild(card);
 }

@@ -1,28 +1,29 @@
 let data = {
-  ESP: [
+  ENG: [
     {
-      id: "1",
-      name: "Spain",
-      flag: "https://img.uefa.com/imgml/flags/240x240/ESP.png",
+      id: "2",
+      flag: "https://img.uefa.com/imgml/flags/240x240/ENG.png",
+      name: "ENGLAND",
       match_played: "7",
-      match_won: "7",
-      match_drawn: "0",
-      match_lost: "0",
-      goals: "15",
-      goal_conceded: "4",
-      possession: "58.15%",
-      passing_accuracy: "90.14%",
-      balls_recovered: "290",
-      tackles_won: "36",
-      clean_sheet: "3",
-      saves: "18",
-      distance_covered: "832.65",
-      yellow_card: "16",
-      red_card: "1",
+      match_won: "3",
+      match_drawn: "3",
+      match_lost: "1",
+      goals: "8",
+      goal_conceded: "6",
+      possession: "55.72%",
+      passing_accuracy: "89%",
+      balls_recovered: "252",
+      tackles_won: "38",
+      clean_sheet: "2",
+      saves: "17",
+      distance_covered: "846.06",
+      yellow_card: "14",
+      red_card: "0",
     },
   ],
 };
-for (const items of data.ESP) {
+
+for (const items of data.ENG) {
   // Create the main container
 
   // Create the title section
@@ -32,10 +33,7 @@ for (const items of data.ESP) {
   let flag = document.createElement("div");
   flag.classList.add("flag");
   let flagImage = document.createElement("img");
-  flagImage.setAttribute(
-    "src",
-    items.flag
-  );
+  flagImage.setAttribute("src", items.flag);
   flagImage.setAttribute("alt", "England Flag");
   flag.appendChild(flagImage);
 
@@ -135,6 +133,5 @@ for (const items of data.ESP) {
   information.appendChild(overview);
 
   // Finally, append the entire structure to a parent element in the document
-document.getElementById("information").appendChild(overview);
-
+  document.getElementById("information").appendChild(overview);
 }

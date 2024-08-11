@@ -51,7 +51,6 @@
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   text-align: center;
-  transition: transform 0.2s, background-color 0.2s, box-shadow 0.2s;
 }
 
 .match div h3, .stats div h3 {
@@ -64,13 +63,6 @@
   font-size: 16px;
   color: #666;
   margin: 0;
-}
-
-/* Hover effect for match and stats boxes */
-.match div:hover, .stats div:hover {
-  transform: translateY(-5px);
-  background-color: #f0f0f0;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
 /* Ensure no margin on the first and last items in a row */

@@ -1,27 +1,32 @@
 let data = {
   ESP: [
     {
-      id: "1",
-      name: "Spain",
-      flag: "https://img.uefa.com/imgml/flags/240x240/ESP.png",
-      match_played: "7",
-      match_won: "7",
-      match_drawn: "0",
-      match_lost: "0",
-      goals: "15",
-      goal_conceded: "4",
-      possession: "58.15%",
-      passing_accuracy: "90.14%",
-      balls_recovered: "290",
-      tackles_won: "36",
-      clean_sheet: "3",
-      saves: "18",
-      distance_covered: "832.65",
-      yellow_card: "16",
-      red_card: "1",
+      id: "0002",
+      name: "Álex Remiro",
+      age: "29",
+      match: "-",
+      position: "Goalkeeper",
+      image:
+        "https://img.uefa.com/imgml/TP/players/3/2024/cutoff/250066244.png",
+      club_number: "1",
+      nation_number: "13",
+      country: "Spain",
+      date_of_birth: "24/3/1995 (29)",
+      match_played: "",
+      minutes_played: "",
+      goals: "",
+      tackles: "",
+      balls_recovered: "",
+      passing_accuracy: "",
+      top_speed: "",
+      distance_covered: "",
+      yellow_card: "",
+      red_card: "",
     },
   ],
 };
+
+
 for (const items of data.ESP) {
   // Create the main container
 
@@ -32,10 +37,7 @@ for (const items of data.ESP) {
   let flag = document.createElement("div");
   flag.classList.add("flag");
   let flagImage = document.createElement("img");
-  flagImage.setAttribute(
-    "src",
-    items.flag
-  );
+  flagImage.setAttribute("src", items.image);
   flagImage.setAttribute("alt", "England Flag");
   flag.appendChild(flagImage);
 
@@ -59,32 +61,28 @@ for (const items of data.ESP) {
 
   // Data for matches and stats
   let matchData = [
-    { number: items.match_played, label: "Matches played" },
-    { number: items.match_won, label: "Won" },
-    { number: items.match_lost, label: "Lost" },
-    { number: items.match_drawn, label: "Drawn" },
+    { number: items.club_number, label: "CLUB NUMBER" },
+    { number: items.nation_number, label: "NATION NUMBER" },
+    { number: items.country, label: "COUNTRY" },
+    { number: items.date_of_birth, label: "DATE OF BIRTH" },
   ];
 
   let statsData = [
-    [
-      { number: items.goals, label: "Goals" },
-      { number: items.goal_conceded, label: "Goals conceded" },
-      { number: items.possession, label: "Possession" },
-    ],
-    [
-      { number: items.passing_accuracy, label: "Passing accuracy" },
-      { number: items.balls_recovered, label: "Balls recovered" },
-      { number: items.tackles_won, label: "Tackles won" },
-    ],
-    [
-      { number: items.clean_sheet, label: "Clean sheet" },
-      { number: items.saves, label: "Saves" },
-      { number: items.distance_covered, label: "Distance covered" },
-    ],
-    [
-      { number: items.yellow_card, label: "Yellow card" },
-      { number: items.red_card, label: "Red card" },
-    ],
+    // [
+    //   { number: items.match_played, label: "Match played" },
+    //   { number: items.minutes_played, label: "Minutes played" },
+    //   { number: items.goals, label: "Goal" },
+    // ],
+    // [
+    //   { number: items.passing_accuracy, label: "Passing accuracy" },
+    //   { number: items.clean_sheet, label: "Clean sheet" },
+    //   { number: items.top_speed, label: "Top speed (km/h)" },
+    // ],
+    // [
+    //   { number: items.distance_covered, label: "Distance covered" },
+    //   { number: items.yellow_card, label: "Yellow card" },
+    //   { number: items.red_card, label: "Red card" },
+    // ],
   ];
 
   // Function to create match stats
@@ -135,6 +133,5 @@ for (const items of data.ESP) {
   information.appendChild(overview);
 
   // Finally, append the entire structure to a parent element in the document
-document.getElementById("information").appendChild(overview);
-
+  document.getElementById("information").appendChild(overview);
 }
