@@ -40,11 +40,15 @@ let navList = document.createElement("ul");
 navList.classList.add("navbar-nav");
 
 let navItems = [
-  { name: "Matches", href: "#" },
-  { name: "Groups", href: "#" },
-  { name: "Video", href: "#" },
-  { name: "Stats", href: "#" },
-  { name: "Gaming", href: "#" },
+  { name: "Shop", href: "http://127.0.0.1:5500/Shop/Shop.html" },
+  {
+    name: "Đăng nhập",
+    href: "http://127.0.0.1:5500/Register%26Login/login.html",
+  },
+  {
+    name: "Đăng kí",
+    href: "http://127.0.0.1:5500/Register%26Login/register.html",
+  },
 ];
 
 navItems.forEach((item) => {
@@ -64,17 +68,17 @@ collapseDiv.appendChild(navList);
 container.appendChild(collapseDiv);
 
 // Create the buttons
-let registerButton = document.createElement("button");
-registerButton.innerText = "Đăng kí";
+// let registerButton = document.createElement("button");
+// registerButton.innerText = "Đăng kí";
 
-let loginButton = document.createElement("button");
-loginButton.innerText = "Đăng nhập";
+// let loginButton = document.createElement("button");
+// loginButton.innerText = "Đăng nhập";
 
-let buttonContainer = document.createElement("div");
-buttonContainer.appendChild(registerButton);
-buttonContainer.appendChild(loginButton);
+// let buttonContainer = document.createElement("div");
+// buttonContainer.appendChild(registerButton);
+// buttonContainer.appendChild(loginButton);
 
-container.appendChild(buttonContainer);
+// container.appendChild(buttonContainer);
 
 // Append the container to the navbar
 navbar.appendChild(container);
