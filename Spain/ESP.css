@@ -96,7 +96,7 @@
 
 
 .navbar {
-  background-color: #007bff; /* Dark background color */
+  background-color: #343a40; /* Dark background color */
   padding: 10px 20px;
 }
 
@@ -130,7 +130,7 @@
 }
 
 .nav-link:hover {
-  background-color: #0056b3; /* Slightly lighter dark color for hover effect */
+  background-color: #495057; /* Slightly lighter dark color for hover effect */
   color: black;
 }
 
@@ -139,3 +139,72 @@
 }
 
 
+.LINK{
+  text-decoration: none;
+}
+
+
+/* Footer styles */
+.footer {
+  background-color: #343a40; /* Dark background color */
+  color: white;
+  padding: 40px 0;
+}
+
+.footer .container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.footer .sponsors img {
+  max-width: 100px;
+  margin: 10px;
+}
+
+.footer .text-center {
+  text-align: center;
+}
+
+.footer .list-unstyled {
+  padding: 0;
+  list-style: none;
+}
+
+.footer .list-unstyled li {
+  margin-bottom: 10px;
+}
+
+.footer .list-unstyled a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer .list-unstyled a:hover {
+  text-decoration: underline;
+}
+
+.footer .d-flex {
+  display: flex;
+}
+
+.footer .justify-content-center {
+  justify-content: center;
+}
+
+.footer .align-items-center {
+  align-items: center;
+}
+
+.footer .flex-wrap {
+  flex-wrap: wrap;
+}
+
+.footer .mx-2 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.footer p {
+  margin: 10px 0 0;
+  font-size: 0.875rem;
+}

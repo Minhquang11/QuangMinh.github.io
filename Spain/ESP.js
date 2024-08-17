@@ -176,11 +176,15 @@ let container = document.createElement("div");
 container.classList.add("container-fluid");
 
 // Create the brand
+let linkBrand = document.createElement("a");
+linkBrand.classList.add("LINK");
+linkBrand.setAttribute("href", "http://127.0.0.1:5500/Home/Home.html");
 let brand = document.createElement("p");
 brand.classList.add("navbar-brand");
 brand.style.color = "white";
 brand.innerText = "UEFA.com";
-container.appendChild(brand);
+linkBrand.appendChild(brand)
+container.appendChild(linkBrand);
 
 // Create the toggler button
 let toggler = document.createElement("button");

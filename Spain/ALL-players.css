@@ -169,3 +169,72 @@
   background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3E%3Cpath stroke='%23ffffff' stroke-width='2' d='M5 7h20M5 15h20M5 23h20'/%3E%3C/svg%3E");
 }
 
+.LINK{
+  text-decoration: none;
+}
+
+
+/* Footer styles */
+.footer {
+  background-color: #343a40; /* Dark background color */
+  color: white;
+  padding: 40px 0;
+}
+
+.footer .container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.footer .sponsors img {
+  max-width: 100px;
+  margin: 10px;
+}
+
+.footer .text-center {
+  text-align: center;
+}
+
+.footer .list-unstyled {
+  padding: 0;
+  list-style: none;
+}
+
+.footer .list-unstyled li {
+  margin-bottom: 10px;
+}
+
+.footer .list-unstyled a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer .list-unstyled a:hover {
+  text-decoration: underline;
+}
+
+.footer .d-flex {
+  display: flex;
+}
+
+.footer .justify-content-center {
+  justify-content: center;
+}
+
+.footer .align-items-center {
+  align-items: center;
+}
+
+.footer .flex-wrap {
+  flex-wrap: wrap;
+}
+
+.footer .mx-2 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.footer p {
+  margin: 10px 0 0;
+  font-size: 0.875rem;
+}
